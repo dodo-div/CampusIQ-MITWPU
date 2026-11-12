@@ -1,0 +1,20 @@
+{
+  "answer": "I couldn't verify a supporting document reference for this answer.",
+  "sources": [],
+  "citations": [],
+  "validation": {
+    "status": "not_checked",
+    "valid": null,
+    "reason": "No supporting citations survived filtering.",
+    "unsupported_dates": []
+  },
+  "claim_audit": {
+    "status": "not_applicable",
+    "claims_checked": 0,
+    "candidate_supported": 0,
+    "partial_matches": 0,
+    "unverified": 0,
+    "claims": []
+  },
+  "cached": false
+}

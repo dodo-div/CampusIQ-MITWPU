@@ -1,0 +1,2 @@
+# Add direct HTTPS PDF URLs here ONLY after confirming download/storage permission.
+# One URL per line. The student manual is deliberately excluded pending permission.

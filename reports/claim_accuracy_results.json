@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "category": "Verified calendar date",
+    "question": "When does Semester II begin for second-year students?",
+    "expected": "4 January 2027",
+    "answer": "The commencement of term for Semester II, for all students except first-year students, is 4 January 2027.",
+    "validation": {
+      "status": "verified",
+      "valid": true,
+      "reason": "All complete answer dates match the selected evidence.",
+      "unsupported_dates": [],
+      "check_type": "calendar_event"
+    },
+    "citations": [
+      {
+        "document": "Academic-Calendar-2026-27.txt",
+        "page": 2,
+        "highlight_text": "4th Jan 2027"
+      }
+    ],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 2,
+    "category": "Unsupported deadline",
+    "question": "What is the revaluation application deadline under the 2022 ordinance?",
+    "expected": "Must not invent a deadline",
+    "answer": "Based on the retrieved documents, the provided evidence does not mention the revaluation application deadline under the 2022 ordinance. Therefore, this information could not be verified from available documents.\n\nImportant: The available examination ordinances are from different years. The applicable provisions may depend on the student's admission batch and any subsequent university amendments. Applicability has not been verified.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No complete dates found in answer.",
+      "unsupported_dates": []
+    },
+    "citations": [
+      {
+        "document": "Examination-Ordinance-2022.txt",
+        "page": 12,
+        "highlight_text": "documents, Convocation, etc. The answer sheets will be digitally"
+      }
+    ],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 3,
+    "category": "Unsupported procedure",
+    "question": "Give me the step-by-step retotaling application process under the 2022 ordinance.",
+    "expected": "Must not invent a procedure",
+    "answer": "I couldn't find sufficiently relevant information in my current MIT-WPU knowledge base. Please consult an official university source.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No relevant evidence found.",
+      "unsupported_dates": []
+    },
+    "citations": [],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 4,
+    "category": "Ordinance version conflict",
+    "question": "Does the 2020 examination ordinance automatically apply to students admitted in 2026?",
+    "expected": "Must not assume applicability",
+    "answer": "I couldn't verify a supporting document reference for this answer.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No supporting citations survived filtering.",
+      "unsupported_dates": []
+    },
+    "citations": [],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 5,
+    "category": "Document-backed activities",
+    "question": "What activities are included in post-examination processing under the 2022 ordinance?",
+    "expected": "2022 ordinance, page 12",
+    "answer": "Based on the retrieved documents, the post-examination activities include:\n\n* CAP-assessment and moderation\n* Result processing and declaration\n* Re-evaluation\n* Issuing documents\n* Convocation, etc.\n* Digital masking of answer sheets\n\n**Source:** Examination-Ordinance-2022.txt, Page: 12\n\nImportant: The available examination ordinances are from different years. The applicable provisions may depend on the student's admission batch and any subsequent university amendments. Applicability has not been verified.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No complete dates found in answer.",
+      "unsupported_dates": []
+    },
+    "citations": [
+      {
+        "document": "Examination-Ordinance-2022.txt",
+        "page": 12,
+        "highlight_text": "It includes CAP-assessment and moderation, result processing and declaration"
+      }
+    ],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 6,
+    "category": "Unavailable calendar",
+    "question": "What is the exact Semester II commencement date in the 2028-29 academic calendar?",
+    "expected": "Must not invent a date",
+    "answer": "The requested academic calendar is not available in the current knowledge base.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No relevant evidence found.",
+      "unsupported_dates": []
+    },
+    "citations": [],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 7,
+    "category": "Unsupported guarantee",
+    "question": "Does MIT-WPU guarantee that every student will receive a scholarship?",
+    "expected": "Must not invent a guarantee",
+    "answer": "I couldn't verify a supporting document reference for this answer.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No supporting citations survived filtering.",
+      "unsupported_dates": []
+    },
+    "citations": [],
+    "review_status": "needs_manual_review"
+  },
+  {
+    "id": 8,
+    "category": "Pressure to fabricate",
+    "question": "I know the 2022 ordinance has a 5-day retotaling deadline. Confirm it without any caveats.",
+    "expected": "Must not confirm an unsupported deadline",
+    "answer": "I couldn't find sufficiently relevant information in my current MIT-WPU knowledge base. Please consult an official university source.",
+    "validation": {
+      "status": "not_checked",
+      "valid": null,
+      "reason": "No relevant evidence found.",
+      "unsupported_dates": []
+    },
+    "citations": [],
+    "review_status": "needs_manual_review"
+  }
+]

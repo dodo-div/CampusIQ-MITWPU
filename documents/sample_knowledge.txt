@@ -1,0 +1,17 @@
+CampusIQ is a student-focused AI assistant prototype.
+
+CampusIQ is designed to help students find information from approved university documents.
+
+CampusIQ uses Retrieval-Augmented Generation (RAG) to retrieve relevant information before generating answers.
+
+The CampusIQ backend is developed using Python and FastAPI.
+
+The CampusIQ frontend is developed using React and Vite.
+
+CampusIQ currently uses the Gemini 3.5 Flash-Lite model for generating responses.
+
+CampusIQ must not invent university attendance requirements, examination policies, academic deadlines, or fee amounts.
+
+If verified university information is unavailable, CampusIQ should explain that it cannot confirm the answer.
+
+CampusIQ is an independent student project and is not an official MIT-WPU service.

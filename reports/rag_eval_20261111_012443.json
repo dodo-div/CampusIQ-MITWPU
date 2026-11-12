@@ -1,0 +1,357 @@
+{
+  "total": 20,
+  "passed": 18,
+  "pass_rate": 90.0,
+  "results": [
+    {
+      "question": "When does Semester I start for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All First Year / Semester I\nDate: 03-Aug-26\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 1"
+    },
+    {
+      "question": "When does Semester I start for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All except first year / Semester I\nDate: 6th Jul 2026\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When does Semester II start for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1, 1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All First Year / Semester II\nDate: 4th Jan 2027\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 1\n\n[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All First Year\nDate: 3rd Aug 2027\nEvent: Commencement of Next Academic Year\nRemarks: \nERP locking: \nSource page: 1"
+    },
+    {
+      "question": "When does Semester II start for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2, 2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 4th Jan 2027\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 2\n\n[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year\nDate: 3rd Aug 2027\nEvent: Commencement of Next Academic Year\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When are Semester I term end exams for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All First Year / Semester I\nDate: 7thDec 2026 – 28th Dec 2026\nEvent: Term End Exam\nRemarks: 18 working days\nERP locking: \nSource page: 1"
+    },
+    {
+      "question": "When are Semester I term end exams for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All except first year / Semester I\nDate: 19th Nov 2026 – 18th Dec 2026\nEvent: Term End Exam (Regular)\nRemarks: 27 working days\nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When are Semester II term end exams for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All First Year / Semester II\nDate: 12th May 2027 – 31st May 2027\nEvent: Term End Exam (Regular)\nRemarks: 18 Working Days\nERP locking: \nSource page: 1"
+    },
+    {
+      "question": "When are Semester II term end exams for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 12th May 2027 – 31st May 2027\nEvent: Term End Exam (Regular)\nRemarks: 18 Working Days\nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When is the Semester I midterm for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All First Year / Semester I\nDate: 12th Oct 2026 – 16th Oct 2026\nEvent: Formative Assessment 2 (Mid Term)\nRemarks: \nERP locking: \nSource page: 1"
+    },
+    {
+      "question": "When is the Semester I midterm for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All except first year / Semester I\nDate: 7th Sep 2026 – 12th Sep 2026\nEvent: Formative Assessment 2 (Mid Term)\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When is Semester I vacation for first-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [1, 1] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 1
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All First Year / Semester I\nDate: 29th Dec 2026 – 3rd Jan 2027\nEvent: Winter Vacation\nRemarks: Actual Winter vacation days will vary depending upon Exam Time Table\nERP locking: \nSource page: 1\n\n[Source: Academic-Calendar-2026-27.txt, Page: 1]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All First Year / Semester I\nDate: 7th Nov 2026 – 14th Nov 2026\nEvent: Diwali Vac"
+    },
+    {
+      "question": "When is Semester I vacation for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2, 2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All except first year / Semester I\nDate: 19th Dec 2026 – 3rd Jan 2027\nEvent: Winter Vacation\nRemarks: Actual Winter vacation days will vary depending upon Exam Time Table\nERP locking: \nSource page: 2\n\n[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: I\nStudent category: All except first year / Semester I\nDate: 7th Nov 2026 – 14th Nov 2026\nEve"
+    },
+    {
+      "question": "When is the Semester II midterm for second-year students?",
+      "type": "calendar",
+      "status": "PASS",
+      "actual": "Pages: [2] | Expected date found: True",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 8th Mar 2027 – 13th Mar 2027\nEvent: Formative Assessment 2 (Mid Term)\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "What are the rules for revaluation?",
+      "type": "ordinance",
+      "status": "FAIL",
+      "actual": "Examination-Ordinance-2022.txt",
+      "sources": [
+        "Examination-Ordinance-2022.txt"
+      ],
+      "citations": [
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 10
+        },
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 2
+        },
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 3
+        }
+      ],
+      "context_preview": "[Source: Examination-Ordinance-2022.txt, Page: 10]\n[Page 10]\nPage 10 of 36\n6.4 Examination Scheme\nAn Examination scheme of combination of formative assessments and summative\nassessments shall be employed. The weightage of the formative assessment shall\nbe 60% and the weightage of the summative assessment shall be 40%. Separate\npassing shall be applicable with minimum 40% in each assessment. The\nexamination scheme may vary as per the guidelines of the regulatory body, if any.\nThe examination sche"
+    },
+    {
+      "question": "How can students apply for retotaling?",
+      "type": "ordinance",
+      "status": "FAIL",
+      "actual": "Examination-Ordinance-2022.txt",
+      "sources": [
+        "Examination-Ordinance-2022.txt"
+      ],
+      "citations": [
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 31
+        },
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 16
+        },
+        {
+          "document": "Examination-Ordinance-2022.txt",
+          "page": 16
+        }
+      ],
+      "context_preview": "[Source: Examination-Ordinance-2022.txt, Page: 31]\nThis transition will reflect in all the official documents (Grade Card, transcripts,\netc.) of student. It will be mentioned as Second Year Term-I and Term II for\nSemester III and IV respectively.\n•\nSimilar procedure will be followed for all the program years from Second Year to\nLast Year, to which the students will be admitted during AY-2022-23 onwards.\n\n[Source: Examination-Ordinance-2022.txt, Page: 16]\n[Page 16]\nPage 16 of 36\n9.2 Formative ass"
+    },
+    {
+      "question": "What is the MIT-WPU hostel fee?",
+      "type": "unsupported",
+      "status": "PASS",
+      "actual": "No context",
+      "sources": [],
+      "citations": [],
+      "context_preview": ""
+    },
+    {
+      "question": "What is the campus WiFi password?",
+      "type": "unsupported",
+      "status": "PASS",
+      "actual": "No context",
+      "sources": [],
+      "citations": [],
+      "context_preview": ""
+    },
+    {
+      "question": "When does Semester II start for second-year students?",
+      "type": "validation",
+      "status": "PASS",
+      "actual": "verified",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 4th Jan 2027\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 2\n\n[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year\nDate: 3rd Aug 2027\nEvent: Commencement of Next Academic Year\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When does Semester II start for second-year students?",
+      "type": "validation",
+      "status": "PASS",
+      "actual": "unsupported",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 4th Jan 2027\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 2\n\n[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year\nDate: 3rd Aug 2027\nEvent: Commencement of Next Academic Year\nRemarks: \nERP locking: \nSource page: 2"
+    },
+    {
+      "question": "When does Semester II start for second-year students?",
+      "type": "validation",
+      "status": "PASS",
+      "actual": "not_checked",
+      "sources": [
+        "Academic-Calendar-2026-27.txt"
+      ],
+      "citations": [
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        },
+        {
+          "document": "Academic-Calendar-2026-27.txt",
+          "page": 2
+        }
+      ],
+      "context_preview": "[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year / Semester II\nDate: 4th Jan 2027\nEvent: Commencement of Term\nRemarks: \nERP locking: \nSource page: 2\n\n[Source: Academic-Calendar-2026-27.txt, Page: 2]\nMIT-WPU Academic Calendar 2026-27\nSemester: II\nStudent category: All except first year\nDate: 3rd Aug 2027\nEvent: Commencement of Next Academic Year\nRemarks: \nERP locking: \nSource page: 2"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+
+.source-citations {
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.source-citations-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9099a7;
+}
+
+.source-citations-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.source-citation-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: #c8ac83;
+  font-size: 12px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: rgba(200, 172, 131, 0.5);
+  transition: color 0.2s ease;
+}
+
+.source-citation-link:hover {
+  color: #f0d5a8;
+  text-decoration-color: currentColor;
+}
+
+.source-citation-link:focus-visible {
+  outline: 2px solid #c8ac83;
+  outline-offset: 4px;
+  border-radius: 2px;
+}

@@ -1,0 +1,2938 @@
+[Page 1]
+Examination Ordinance, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(May 2020)
+
+[Page 2]
+Page 1 of 62 
+ 
+Table of Contents 
+Table of Contents ..................................................................................................................... 1 
+1 
+Introduction and Definitions ........................................................................................... 4 
+1.1 
+Background .................................................................................................................... 4 
+1.2 
+Definitions / Abbreviations ............................................................................................ 4 
+2 
+Examination Department ................................................................................................. 8 
+2.1 
+Pre-Examinations Work ................................................................................................. 9 
+2.2 
+Conduct of Examinations ............................................................................................... 9 
+2.2.1 
+Internal Examinations .......................................................................................... 9 
+2.2.2 
+External Examinations ......................................................................................... 9 
+2.3 
+Post Examinations work .............................................................................................. 10 
+3 
+Duties and Responsibilities ............................................................................................ 12 
+3.1 
+Controller of Examinations .......................................................................................... 12 
+3.2 
+Deputy Controller of Examinations (Dy. COE) .......................................................... 12 
+3.3 
+Central Assessment Programme Officer (CAP Officer) .............................................. 13 
+4 
+Appointment of Paper-setters, Examiners, Senior-Supervisors, Conduct of 
+Examination .................................................................................................................... 14 
+5 
+Conducting University Examinations ........................................................................... 16 
+5.1 
+Center in charge ........................................................................................................... 16 
+5.2 
+Senior Supervisor (Internal and External) ................................................................... 18 
+5.3 
+Junior Supervisor ......................................................................................................... 19 
+6 
+Vigilance Squads ............................................................................................................. 22 
+7 
+Central Assessment Program Scheme .......................................................................... 25 
+7.1 
+Evaluation, Tabulation and Declaration of Results ..................................................... 25 
+I. 
+Pre-assessment: ............................................................................................................ 26 
+II. 
+Assessment and Moderation Process: .......................................................................... 27 
+7.2 
+Moderation ................................................................................................................... 27 
+III. 
+Post -Assessment: ........................................................................................................ 28 
+8 
+Grace Marks for Passing ................................................................................................ 29 
+9 
+Passing Criteria ............................................................................................................... 30 
+9.1 
+Introduction .................................................................................................................. 30 
+9.2 
+Passing marks............................................................................................................... 30 
+9.3 
+Attendance ................................................................................................................... 30 
+9.4 
+For students admitted in AY 2017-18 (Golden Batch) and laterally admitted in AY 
+2018-19. ....................................................................................................................... 30
+
+[Page 3]
+Page 2 of 55 
+ 
+9.5 
+For students admitted in AY 2018-19 onwards. .......................................................... 31 
+9.6 
+For promotion from First Year to Second Year ........................................................... 31 
+9.7 
+For promotion from Second Year to Third Year ......................................................... 32 
+9.8 
+For promotion from Third Year to Fourth Year .......................................................... 32 
+9.9 
+Detaining of the students: ............................................................................................ 33 
+9.10 
+Eligibility Criteria ........................................................................................................ 33 
+9.11 
+Appendix: ..................................................................................................................... 33 
+A.1 
+  Benefit of marks based on the Class Participation for subject wise in Course 
+Continuous Assessment ............................................................................................... 33 
+A.2 
+ Letter Grades and Grade Points .................................................................................. 34 
+A.3 
+ Computation of GPA and CGPA: ............................................................................... 34 
+A.4 
+ Illustration of Computation of GPA and CGPA ......................................................... 34 
+10 Rules for the Revaluation & Re-totaling of Answer-Book/s ....................................... 36 
+10.1 
+Introduction .................................................................................................................. 36 
+10.2 
+Rules for revaluation and retotaling: ......................................................................... 36 
+11 Amendment of Results ................................................................................................... 39 
+11.1 
+Due to errors ................................................................................................................ 39 
+11.2 
+Due to fraud, malpractices etc. .................................................................................... 39 
+12 Unfair Means by the Candidate .................................................................................... 40 
+12.1 
+Definition-Unless the context otherwise requires: ....................................................... 40 
+12.2 
+Competent Authority ................................................................................................... 41 
+12.3 
+Procedure to be followed by Examiner during Assessment. ....................................... 43 
+12.4 
+Appointment of Unfair Means Inquiry Committee ..................................................... 43 
+12.5 
+Punishment ................................................................................................................... 45 
+12.6 
+The Broad Categories of Unfair Means Resorted to by Students at the University 
+Examinations and the Quantum of Punishment for each Category thereof. ................ 46 
+13 Lapses Committed by the Employee ............................................................................. 48 
+13.1 
+Lapses Committed by any Paper-Setters, Examiners, Moderators, Referees, Teachers 
+or any other persons connected with the Conduct of Examination. ............................ 48 
+13.2 
+Competent Authority: .................................................................................................. 49 
+13.3 
+Investigating Committee: ............................................................................................. 49 
+13.4 
+Procedure for Investigation: ......................................................................................... 49 
+13.5 
+Punishment:.................................................................................................................. 51
+
+[Page 4]
+Page 3 of 55 
+ 
+13.6 
+Action for lapses on the part of the Paper-Setter, Examiner, Moderator, Referee, 
+Teacher or any another person connected with the Conduct of University 
+Examinations................................................................................................................ 52 
+14 Visually Challenged or Differently Abled Students .................................................... 54 
+15 References ........................................................................................................................ 55 
+Annexure I - Form of Unfair Means by student ..................................................................... 
+Annexure II - Format of Complaint ......................................................................................... 
+Annexure III - Organization Structure of Examination Department...................................
+
+[Page 5]
+Page 4 of 55 
+ 
+Examination Ordinance, 2020 
+ 
+1 Introduction and Definitions 
+ 
+In exercise of the powers conferred by and in discharge of duties assigned under the relevant 
+provision(s) of the Dr. Vishwanath Karad MIT World Peace University Act, 2017, Statutes 
+and Ordinances, made thereunder, the Academic Council hereby established the following 
+Ordinances, namely; 
+1.1 
+Background  
+ 
+(a) 
+These Ordinances shall be called the Examination Ordinance, 2020. 
+ 
+(b) 
+They shall come into force from the Academic Session 2020-21. 
+ 
+1.2 
+Definitions / Abbreviations  
+ 
+In these Ordinances, unless the context otherwise requires: 
+1. “ACoE” means the Assistant Controller of Examinations who is appointed by Controller 
+of Examinations. He / She is a non-teaching staff, responsible for the smooth coordination 
+between examination department and respective schools / faculty.   
+2. "Academic Year": Three consecutive trimesters / two consecutive semesters / one year 
+from the date of commencement of programme. 
+3. “Academic Calendar” means the schedule of academic and other related activities as 
+approved by the Academic Council; 
+4. “Academic Council” means the Academic Council of the University; 
+5. “Academic Office” means the Academic Office of the University; 
+6. “BoE” means the Board of Examinations of the University; 
+7. “BoS” means the Board of Studies of a particular Program / Schools / Department / 
+Faculty of the University;  
+8. “CAP Coordinator” - means an officer appointed to coordinate the Central Assessment 
+Program at Department / School / Faculty.  
+9. “CAP Officer” means – a full time officer appointed in the said position to assist 
+Controller of Examinations for ensuring and implementing the processes for efficient 
+functioning of Central Assessment Program and declaration of results.  
+10. "Capstone Project" is a two-semester process in which students pursue independent 
+research on a question or problem of their choice, engage with the scholarly debates in the 
+relevant disciplines, and - with the guidance of a faculty mentor - produce a substantial 
+paper that reflects a deep understanding of the topic.
+
+[Page 6]
+Page 5 of 55 
+ 
+11. “Center In-Charge” means – an officer appointed to conduct the examinations at the 
+Examination Center.  
+12. “College Examination Officer” means –an officer appointed by the Dean / HoS / Pro-
+Vice Chancellor for the examination related works. He should work as Single Point of 
+Contact in between exam department and faculty / school. 
+13. “Certificate and Diploma Programs” includes all certification programs and diploma 
+programs. 
+14. "Choice Based Credit System (CBCS)": The CBCS provides choice for students to 
+select from the prescribed list of courses. 
+15. “CoE” means the Controller of Examinations of the University; 
+16. “Control room staff” means – The staff appointed to conduct the examination at 
+Department / School / Faculty as per requirement for the period of examinations. 
+17. “Course” means, a specific subject usually identified by its course-code and course-title, 
+with specified credits and syllabus/course-description, a set of references, taught / 
+supervised by some teacher(s)/course-instructor(s) to a specific class (group of students) 
+during a specific academic- session/Trimester/Semester/Annual. 
+18. "Credit": A unit by which the course work is measured. One credit is equivalent to 15 
+contact hours of classroom teaching or 30 hours of Practical Work / Field Work / Lab 
+Work / Tutorial / Project Work or any internship duration specified. 
+19. "Credit Based System (CBS)": Under the CBS, the requirement for awarding a degree or 
+diploma or certificate is prescribed in terms of specified minimum number of credits to be 
+completed by the student. 
+20. "Credit Point": It is the product of grade point and number of credits for a course. e.g. if 
+a course has 3 credits and students gets 7 grade points then the credit point will be 7 X 
+3=21 Credit Points. 
+21. "Cumulative Grade Point Average (CGPA)": It is a measure of overall cumulative 
+performance of a student over all trimester / semesters. The CGPA is the ratio of total 
+credit points secured by a student in various courses in all Trimesters / Semesters and the 
+sum of the total credits of all courses in all the trimesters till the progression of the 
+program. It is expressed up to two decimal places. 
+22. “Degree Program” includes all Undergraduate Degree and Post Graduate Degree 
+Programs. 
+23. “Department” means an academic unit under School / Faculty offering the concerned 
+Degree / Diploma programs;
+
+[Page 7]
+Page 6 of 55 
+ 
+24. “Dy. CoE” - means an officer appointed in the said position to assist the Controller of 
+Examinations for ensuring and implementing the processes for efficient functioning of 
+University examinations, tests, evaluations and declaration of results.  
+25. “Exam block” means – a block created for smooth conduction of theory examinations at 
+specific center. 
+26. “Examination Centre” means a place where the University examinations are conducted; 
+27. “Examination Section” means the unit duly constituted by the University to deal with all 
+activities related to University examinations; 
+28. “Executive President” means the Executive President of the University. 
+29. “Expulsion” means permanent removal of the student from the University rolls with 
+prohibition on future enrolment; 
+30. “External Examiner” means – an expert / a teacher appointed from another School / 
+Faculty / Institute / University / industry to conduct specific examination activities. 
+31. “External Senior Supervisor” means, a senior teaching faculty member appointed by 
+CoE to observe and monitor the conduct of examinations independently. 
+32. "Grade Card": Based on the grades earned, a grade card shall be issued to all the 
+registered students after every trimester / semester. The grade card will display the course 
+details (code, title, number of credits, grade and grade points secured) along with GPA of 
+that trimester / semester and CGPA earned till that trimester / semester. At the end of 
+each academic year, a consolidated / updated grade card is to be issued to the students. 
+(The students need not to carry separate grade cards of each trimester / repeat exams, etc. 
+for interviews / internships / project, or whenever they apply for jobs, etc.) 
+33. "Grade Point": It is a numerical weight allotted to each letter grade on a 10- point scale. 
+34. "Grade Point Average (GPA)": It is a measure of performance of work done in a 
+trimester / semester. It is ratio of total credit points secured by a student in various 
+courses registered in a trimester / semester and the total course credits of that trimester / 
+semester. It shall be expressed up to two decimal places. 
+35. “HoS” means the Head of School. 
+36. “Institute” means a constituent institution of the University established for monitoring, 
+supervising and guiding, teaching, training and research activities in broadly related fields 
+of studies; 
+37. "Internship” is an internship is an opportunity offered by an employer to potential 
+employees, called interns, to work at a firm for a fixed period of time. Interns are usually 
+undergraduates or students, and most internships last between a month and three months.
+
+[Page 8]
+Page 7 of 55 
+ 
+38. "Laboratory" is a place equipped for experimental study in a science or for testing and 
+analysis a research laboratory broadly: a place providing opportunity for experimentation, 
+observation, or practice in a field of study. 
+39. "Letter Grade": It is an index of the performance of students in a said course. Grades are 
+denoted by letters O, A+, A, B+, B, C, P and F. 
+40. “Moderator” – A person who reviews and moderates the answer scripts to ensure 
+consistency of evaluation. 
+41. “Paper Setter” means – A course teacher appointed to set the Question Paper for a 
+particular course.  
+42. “President” means the President of the University; 
+43. “Program Curriculum” includes the set of Program Structure and Course-Structure, 
+Course-Contents / Syllabi; 
+44. "Program": An educational program leading to award of a diploma, certificate or degree. 
+45. "Research Center" means a formally structured unit within the university, other than a 
+department or a school, established with the purpose of advancing scholarly activity 
+primarily through collaborative research, research training, research dissemination, or 
+creative endeavors. 
+46. "Rural immersion" is the participatory method for the analysis of local problems by the 
+students of different streams and different background. It helps the students to understand 
+their problems, lifestyle and needs and inspires them to come up with ground – breaking 
+solutions. 
+47. “School” means –an academic unit between department and faculty.  
+48. "Semester": A semester will consist of 20-24 weeks of academic work. 
+49. "Student" means and includes a person who is enrolled as such by the department / 
+school for receiving instructions qualifying for any degree, diploma or certificate awarded 
+by the University. It includes ex-student and student registered as candidate (examinee) 
+for any of degree, diploma or certificate examination. 
+50. "Thesis" is the most important or foundational idea of an argument, presentation, or piece 
+of writing. But it can also mean a large work of art, criticism, or scientific research that 
+represents original research and is generally the final requirement for an academic degree. 
+51. "Trimester": A trimester will consist of 12-15 weeks of academic work. 
+52. “University” means Dr. Vishwanath Karad MIT World Peace University, Pune; 
+53. “Vice Chancellor” means the Vice Chancellor of the University; 
+54. “Vigilance Squad” means – a squad created to supervise through surprise / random visits, 
+to ensure the smooth conduction of examinations as per norms.
+
+[Page 9]
+Page 8 of 55 
+ 
+2 Examination Department 
+The Examination Department mainly deals with appointment of paper setters, Examiners, 
+moderators, senior supervisors, preparation and publication of schedule of examinations, 
+conduct of examinations, assessments and evaluations, to get performance of the candidates 
+at the examinations properly assessed and timely declaration of results and awarding degrees, 
+diplomas and certificates. For the purpose of simplification, smooth and easier functioning, 
+the work of Examination Department is divided into following three parts, on functional 
+basis: 
+ Pre-examinations work. 
+ Conduct of Examinations. 
+ Post-examinations work. 
+Examinations  
+a. 
+Trimester / Semester / Year End Examination is the final examination conducted at the 
+end of each Trimester/Semester/Year, as applicable, during the dates specified in the 
+Academic Calendar by the University. 
+b. 
+The detailed schedule of the Trimester / Semester / Year End Examinations to be 
+conducted by the University shall be published / announced by the COE at least 02 
+(Two) month before the scheduled date of examinations. 
+c. 
+The Trimester / Semester / Year end examination shall be held at designated 
+examination centers of the University. 
+d. 
+The Mid-term/ internal assessment examinations should be conducted as per norms by 
+the HoS on the dates specified in the Academic Calendar. 
+e. 
+The detailed schedule of the Mid-term examinations/ internal assessment should be 
+published / announced by the Deans/ HoS’s at least 02 (Two) weeks before the 
+scheduled date of Mid-term/ internal assessment examinations. 
+f. 
+The Trimester / Semester / Year end examinations, should be conducted by the COE 
+on the dates specified in the Academic Calendar. These examinations shall be held at 
+the designated examination centers of the University. 
+g. 
+The Final Examinations for Practical, Jury, Viva Voce, Project Evaluation, etc., as 
+applicable shall be conducted by the Deans/HoS’s. They shall publish the schedule at 
+least a week before commencement of the same. 
+h. 
+All other continuous assessment examinations/tests/assessments shall be conducted by 
+the respective faculty members / course instructors as per the schedule announced in 
+the respective Course Plan. The Deans/HoS, concerned shall be responsible for the 
+smooth 
+and 
+timely 
+conduct 
+of 
+such 
+continuous 
+assessments 
+and 
+the
+
+[Page 10]
+Page 9 of 55 
+ 
+declarations/publication of the results/marks obtained in these continuous 
+assessments/tests. 
+i. 
+Marks / Grades if internal exams / Continuous Assessment / Practical Exams / Viva-
+voce etc. shall be uploaded in the ERP within one week by concerned faculty member. 
+2.1 
+Pre-Examinations Work  
+It basically relates to  
+1. Preparation and publication of schedule of Examinations which includes Time-Table and 
+other related matters 
+2. Appointment of Paper-setters, Examiners, Moderators, Vigilance Squads, Center in 
+Charge / Sr. Supervisor and CAP coordinator. 
+3. To prepare the financial estimates for incorporation in the budget of the University 
+Examinations and submit the same to the Finance for approval. 
+4. To receive, scrutinize and accept student’s Examination Forms  
+5. Declaration of Eligible / Non-Eligible candidates for examination 
+6. Preparation of Hall ticket  
+7. Preparation of Bar Code and Attendance Sheets 
+8. Distribution of Examination Stationery to the concerned Examination Centres 
+9. Organize the Central Assessment Programe  
+10. Distribution of Question papers to the examination Centres.  
+2.2 
+Conduct of Examinations  
+2.2.1 Internal Examinations 
+To conduct of practical / oral / project exams as per norms, the internal / practical 
+examinations are to be conducted by the HoS, Center in charge and the marks to be 
+uploaded in ERP within one week after completion of the said examination.   
+2.2.2 External Examinations 
+1. Display of timetable on notice board eight days before the commencement of the 
+examinations 
+2. Preparation of blocks to conduct the examination a day before the commencement of 
+examinations  
+3. Appointment of Jr. / Block Supervisors one week before the commencement of 
+examinations  
+4. Appointment of necessary administrative staff at examination Centers  
+5. Maintain summary reports of students appearing for the examination (daily) at 
+examination center
+
+[Page 11]
+Page 10 of 55 
+ 
+6. Preparation of block wise bundle of answer books, allotment of blocks to Jr. / Block 
+Supervisors  
+7. Receiving question papers by Center in charge from the examination department 
+8. Distribution of question papers block wise to the Jr. / Block supervisor before 5 minutes 
+of starting time of examination 
+9. Providing the supplements to the blocks, if necessary, after 15 minutes from the starting 
+of examination 
+10. Collection of absentee report after 30 minutes of starting the examination (block wise) 
+along with the balance question papers in the block 
+11. Collection of answer books from the Jr. / Block Supervisors along with Jr. Supervisor 
+report at the end of examination and tally with absentee/ present report  
+12. Handing over the answer books and balance question papers to the examination 
+department before the end of the day by ACoE 
+13. Submit the unfair means cases separately to the examination Department with the 
+supporting documents  
+14. Preparation and submission of bills of honorariums for teaching and non-teaching staff 
+involved in examination activity to examination department immediately after the 
+completion of examinations. 
+ 
+2.3 
+Post Examinations work  
+1. Arranging venue for CAP 
+2. Appointment of Assistant to CAP Coordinator as per requirement 
+3. Receiving answer books at CAP Center, verification of answer books by CAP 
+Coordinator, 
+By the orders of the Controller of Examinations, a signal bell shall be given 
+at the time of examination. 
+i. 
+10 minutes before the commencement of the examination for allowing the 
+student to enter the examination room. 
+ii. 
+Second bell shall be given at the beginning of the examination for 
+distribution of the question papers. 
+iii. 
+After beginning of examination a signal bell should be given for every 
+hour.  
+iv. 
+Third bell shall be given 10 minutes before the closing time, when no 
+student is allowed to leave the examination hall and 
+v. 
+The final bell shall be given at the conclusion of the examination.
+
+[Page 12]
+Page 11 of 55 
+ 
+4. Communication to the examiners by concerned CAP Coordinator regarding the 
+assessment schedule at least a week before the commencement of CAP  
+5. Assessment and moderation of answer books by moderators 
+6. Dealing with unfair means cases with the help of Unfair Means Committee   
+7. Uploading and validation of marks in ERP system by CAP Coordinator of concerned 
+Faculty / School and Examination Department 
+8. Preparation and declaration of result including Gracing, Grading and CGPA 
+9. Issuance of photocopy of answer books on the demand of the students 
+10. Receiving the revaluation applications from students 
+11. Arrangement of revaluation answer books  
+12. Revaluation and assessment and result processing 
+13. Payment of honorarium of paper assessment be prepared and paid by the examination 
+department 
+14. Declaration of results after revaluation. 
+Convocation  
+15. Distribution of Provisional Degree Certificate (PDC)  
+16. Receiving applications for Convocation / Degree Certificates 
+17. Fixing the date of Convocation and Organization of Convocation Ceremony once in a 
+year.
+
+[Page 13]
+Page 12 of 55 
+ 
+3 Duties and Responsibilities 
+3.1 
+Controller of Examinations  
+a. The Controller of Examinations (COE) shall be the Principal Officer for all matters 
+related to conduct the Examinations of the University 
+b. The COE shall be a Member Secretary of Board of Examinations 
+c. The COE will be responsible for conducting the evaluation of the answer books of 
+the Trimester / Semester / Year End Examinations and declaring the results of the 
+Trimester / Semester / Year End Examinations of the University. 
+d. The COE, in consultation with the concerned Dean, and the approval of BOE / Vice 
+Chancellor, shall prepare and publish a schedule of examinations for each program 
+conducted by the University at least 02 (Two) month before the scheduled date of 
+examinations. 
+e. The COE of the University shall maintain the list of examining bodies, examiners 
+and moderators (where applicable), proposed by the Board of Studies, duly 
+scrutinized and approved by the Board of Examinations. 
+f. Paper setters, moderators, internal and external examiners shall be appointed by the 
+COE from the approved panel of examiners. In case of unavailability of paper setter 
+and examiner so appointed, another paper setter and examiner shall be appointed 
+from the approved panel. 
+f. The COE shall send intimation to the paper setter, examiner and moderator (as 
+applicable) regarding their appointment with appropriate instructions, guidelines 
+relating to the paper setting / assessment, as the case may be. 
+g. The COE shall conduct meetings of BOE at the beginning of each trimester for detail 
+discussion.  
+h. The COE shall be a responsible officer for overall examination activities of the 
+University. 
+3.2 
+Deputy Controller of Examinations (Dy. COE) 
+a. 
+The Dy. Controller of Examinations shall work in such a manner and on such terms 
+and conditions of service, as may be specified by the statutes. 
+b. Dy. Controller of Examinations shall be the in-charge of the conduct of examinations 
+and tests of the University and declarations of their results. 
+c. He shall work directly under the direction of CoE 
+d. The Dy. Controller of Examinations shall be responsible, in consultation of CoE, for: 
+e. Preparing and announcing in advance, the calendar of examinations
+
+[Page 14]
+Page 13 of 55 
+ 
+f. Arrangement for printing of question papers arrangement for the timely publication 
+of result of examinations and other tests 
+g. Reviewing, from time to time, the results of University examinations and forward 
+reports thereon to the CoE. 
+h. The Dy. Controller of Examinations shall exercise such other powers and perform 
+such other duties as may be prescribed or assigned to him by CoE. 
+i. To collect the data and organize annual Convocation/Graduation Day ceremony 
+3.3 
+Central Assessment Programme Officer (CAP Officer)  
+a. 
+The Central Assessment Programme Officer shall work in such a manner and on 
+such terms and conditions of service, as may be specified by the statutes. 
+b. CAP Officer shall be the in-charge of the Central Assessment Programme (CAP) and 
+is responsible for the assessment, moderation and declaration of results. 
+c. He shall work directly under the direction of CoE and Dy. CoE. 
+The CAP officer shall be responsible, in consultation of CoE and Dy. CoE, for: 
+d. Preparing the schedule of assessment and coordinate with the concerned faculty / 
+school / department. He shall provide the list of chairman, evaluators and moderators 
+to CAP coordinators for the smooth assessment work. 
+e. Collection of answer books coming from various exam centers at CAP center. 
+f. Verification of answer books with the Jr. Supervisor reports sent by the Center in 
+charge. In case of any discrepancy, it shall be resolved in consultation with the Dy 
+CoE and CoE. In case of non-receipt of answer books from any examination center, 
+the CAP Oﬃcer shall take immediate steps for receiving the said answer books from 
+the concerned Center in charge under intimation to the DCoE and CoE. 
+g. Arrangement for assessment of answer books and getting the answer books assessed 
+by the evaluators, moderators.  
+h. Get the marks entry of the assessed answer books in the ERP. 
+i. Process the results and resolve the query raised by the faculty / school regarding the 
+results. 
+j. CAP officer shall generate and verify the Grade cards of students and send it for 
+printing. 
+k. The CAP Officer shall exercise such other powers and perform such other duties as 
+may be prescribed or assigned to him by CoE and Dy.CoE. 
+l. To provide the data required to organize annual Convocation / Graduation Day 
+ceremony
+
+[Page 15]
+Page 14 of 55 
+ 
+4 Appointment of Paper-setters, Examiners, Senior-Supervisors, Conduct 
+of Examination 
+ 
+a) No person can claim appointment as paper setter/examiner/moderator for any 
+examination work as a matter of right. Appointments of persons as paper 
+setters/examiners/moderators shall be ordinarily made at the time of an examination. 
+These 
+appointments 
+shall 
+be 
+made 
+from 
+the 
+panel 
+of 
+paper 
+setters/examiners/moderators prepared by the Board of Studies concerned. 
+b) The work assigned as paper-setters/examiners/moderators to faculty members is 
+mandatory and cannot be refused. They shall also ensure their availability is 
+communicated to Exam Department of the University in the prescribed (preceding 5 
+working days) time limit. If no communication is received within the prescribed time 
+limit, it will be presumed that the assignment is accepted by the paper 
+setter/examiner/moderator. 
+c) The paper setters/examiners/moderators shall follow all the directions given by the 
+Department of Examination of the University from time to time in respect of pattern 
+of question papers, setting of question papers, model answers, scheme of marking etc. 
+General Guidelines to the Paper Setter(s) 
+1. The question paper setting appointments will be sent to individual teachers based on 
+relevant, timely data submitted by respective Faculty. 
+2. The paper setting team per course would consist of a Chairperson and maximum two 
+paper setters. The Chairperson shall come along with the paper setters in Department of 
+Examinations (DoE) for paper setting. 
+3. The Chairman shall carry the approved version of syllabus along with text / reference 
+books and required diagrams (jpeg / jpg/ png / bmp) for setting THREE sets of Question 
+Paper manuscripts at DoE. 
+4. The Chairperson and paper setters shall be familiar with the course and shall have 
+teaching experience of not less than three years. Further the team shall also be familiar 
+with the approved assessment criteria for the course by respective BoS. Before and after 
+setting the paper, team shall check that all the questions in question paper manuscript are 
+based on / within the limit of approved syllabus of respective course. 
+5. Please do not set/refer/use any materials/questions hurting the sentiments, reflecting race 
+or the sex bias and are anti-national. 
+6. After setting the paper team should prepare the model answers of the question papers.
+
+[Page 16]
+Page 15 of 55 
+ 
+7. It is compulsory to type the question paper manuscript by the paper setting team in given 
+format using assigned computer at DoE and submit a marking scheme along with the 
+model answer booklet. 
+8. No assistance shall be given to typing work to paper setters due to security / 
+confidentiality. 
+9. If problem statements/case studies are taken from suggested text/reference books, it is 
+required to cite reference for originality. 
+10. It is required to check that the Course Code, title, duration and total marks of the 
+examination is entered correctly on the manuscript. 
+11. It would be the responsibility of question paper setting team to complete the proof 
+reading of question paper manuscript and check marking scheme before submission. 
+12. It is required to read by the chairperson, the printed question papers carefully for printing 
+defects (e.g. unclear diagrams or equations etc.) and make sure that there is no defect in 
+the question paper. 
+13. The chairperson and paper setters should endorse the proof reading of text in question 
+paper manuscript by signing the backside of question papers and by writing his / her full 
+name and mobile number. 
+14. The Chairperson and paper setters shall submit the declaration available in DoE about 
+the confidentiality of the submitted question paper manuscripts. 
+15. The remuneration bills of paper setting shall be submitted by the Chairperson and paper 
+setters in prescribed forms at the time of submission of manuscripts.  
+16. The paper setting team is directed to adhere with the allotted time schedule for paper 
+setting. Any delay or non-submission of assigned course question paper in stipulated 
+time will attract disciplinary action. 
+17. Paper setters should switch off their mobile handsets and submit them to the counter 
+before entering the paper setting hall.  
+18. It is expected by the teacher to carry the University identity card along with appointment 
+order for paper setting. For visiting / guest teachers should carry an appointment order 
+along with identity proof.
+
+[Page 17]
+Page 16 of 55 
+ 
+5 Conducting University Examinations 
+a. Duties assigned to any faculty member regarding university examinations are 
+mandatory to be carried out in true spirit and in stipulated timeframe. 
+b. The COE, on recommendation of concerned Dean / Associate Dean shall appoint a 
+Center in charge for a constituent School / Department for a period of three years. He 
+/ She should ensure smooth conduct of University examinations. 
+c. In exceptional circumstances, COE on the direction of the Vice Chancellor, may 
+appoint a person as the Center in charge to conduct of University examinations at a 
+center even though he/she may not be a faculty member of the constituent school / 
+department of the University. However he / she should be a faculty member of from 
+any school / department of MITWPU. 
+5.1 
+Center in charge 
+ 
+1. The Center in charge is to be appointed by the CoE on the recommendation of Dean / 
+Associate Dean for each center. 
+2. The Center in charge is in-charge officer for the conduct of examinations at the center 
+and shall work under the CoE of the University during the examinations. 
+3. He / She should coordinate and confirm the pre-examination work is completed 
+satisfactory which includes subject mapping, eligibility of students, backlog details, 
+examination forms, hall tickets etc. 
+4.  The Center in charge shall arrange to assign seat numbers to different block under the 
+guidance of the CoE.  
+5. He / She should give the signed declaration of sending a person with xerox of his/ her 
+Identity Card to collect daily question papers 1 ½ hours before the examination schedule 
+time from the examination department. 
+6. On the days of examination he / she shall arrange to supply the blank answer books, 
+additional answer books and other stationery required for each block and deliver the 
+packets of question papers to the blocks concerned.  The Center in Charge shall 
+ensure that the Jr. Supervisors are supplied with all necessary requirements for the 
+smooth and fair conduct of examination.  
+7. The Center in Charge shall allot blocks to Jr. Supervisor at the time of examination.  
+As far as possible, the same Jr. Supervisor shall not be posted to the same room 
+succession days.  
+8. The Center in charge shall remain at the center during the entire period of University 
+examination.  In case of any emergency he / she shall take the permission of the 
+Controller of Examinations requesting him to make alternate arrangements.
+
+[Page 18]
+Page 17 of 55 
+ 
+9. The Center in charge shall see that the candidates with valid hall ticket and identity 
+card only are allowed to enter the examination hall.  If any candidate has lost his / her 
+hall ticket, after ascertaining bonafied, he/she will request Controller of Examinations 
+to issue a duplicate hall ticket on payment of required fee as per the rules and 
+regulations of MITWPU.  
+10. The Center in charge shall help the Controller of Examinations to prepare the packets, 
+Trimester wise / Subject wise / Paper wise in serial orders enclosing the relevant 
+proforma.  Then bundles of 100 answer books in each bundle shall be provided with 
+following information.  
+a. Name of the Centre with Centre code 
+b. Trimester 
+c. Course (UG / PG / PG Dip/……) 
+d. Subject 
+e. Subject Code 
+f. Branch 
+g. Date and time of Examination 
+h. Total number of Answer Books 
+11. The Center in charge shall dispatch answer book bundles in cloth bags duly sealed 
+and provide with the above information to the CAP Center.  
+12. In addition to the above duties he / she shall attend to any other work entrusted to him 
+by the Controller of Examinations in connection with the examination. 
+13. As soon as all the examinations are over in that center, the Center in charge shall send 
+a report to the Controller of Examinations as to whether the examination was 
+conducted properly or he noticed any irregularities.  However, he/she shall also report 
+to the Controller or Deputy Controller of examinations about any improper or 
+irregular aspect in the conduct of examination as soon as it is noticed, taking 
+appropriate measures to rectify them with the help of the Controller of Examinations.  
+14. If the  has to leave the center during the examination for any other important work of 
+the University like valuation or for any extraordinary reasons, he/she shall obtain the 
+prior permission of the Controller of Examinations after the proper substitute 
+arrangement is made.  
+15. If Center in charge doesn’t carry out his / her duties sincerely, the CoE may cancel his 
+appointment as Center in charge and replace the other person in consultation with 
+Dean / Associate Dean / HoS.
+
+[Page 19]
+Page 18 of 55 
+ 
+5.2 
+Senior Supervisor (Internal and External) 
+1. The Senior Supervisor (Internal) is to be appointed by the HoS from amongst the 
+senior faculty members of the schools. 
+2. The Senior Supervisor (External) is to be appointed by the CoE from amongst the 
+senior teaching members of other faculty. 
+3. The Senior Supervisors (Internal and External) are overall responsible officers for the 
+smooth conduct of examinations at the center and shall work in co-operation with 
+each other. 
+4. The Senior Supervisors (Internal and External) shall report to the Center in Charge a 
+day before the commencement of examinations. The Senior Supervisors should plan 
+regarding the blocks, Jr. Supervisors and Control room staff etc. required for the 
+smooth conduction of examinations. 
+5. The Senior Supervisors shall be present at the time of opening of the sealed packets 
+containing question papers to ensure that the question paper packets are kept intact 
+and secrecy is maintained.  They should assist the center in charge in checking and 
+arranging the question paper packets (in the serial order date wise and time wise.) 
+6. During the Examination, he/she shall constantly be moving around the examination 
+halls to ensure that all the Jr. Supervisors are discharging their duties properly and 
+there is no scope for lapses / unfair means.  
+7. The Sr. Supervisors should distribute blank answer books to Jr. Supervisors in time 
+before the examination starts and collect the used answer books after the examination 
+by verifying the number and other necessary details. 
+8. The question papers should be distribute to the Jr. Supervisors at the respective blocks 
+in time. 
+9. Sr. Supervisors should collect presentee / absentee report of each block through the 
+control room staff 30 minutes after beginning of the examination for every session 
+which should be tallied at the end of the examination while collecting the used answer 
+books. 
+10. The Sr. Supervisors should supervise (along with the Center in charge) the packing 
+and sealing of the answer book bundles and its safe custody. 
+11. If any case of unfair means occurs during the examination, the Sr. Supervisor should 
+take proper action in consultation with and if necessary should inform to the CoE. 
+12. The answer books and other copy material found in the unfair means cases should be 
+packed separately and be reported to CAP Center every day.  
+13. The Center in charge shall give his / her own observations whenever malpractice 
+cases are detected.
+
+[Page 20]
+Page 19 of 55 
+ 
+14. In case of answer books, which cannot be dispatched on the same day, the answer 
+book bundles shall be kept under the safe custody of the Center in charge with proper 
+care.  However, the Center in charge and Sr. Supervisors shall jointly sign the paper 
+seal pasted to the room where the bundles are preserved.  
+15. If the Sr. Supervisor has to leave the center during the examination for any other 
+important work of the University like valuation or for any extraordinary reasons, 
+he/she shall obtain the prior permission of the after proper substitute arrangement is 
+made.  
+5.3 
+Junior Supervisor 
+1. The Junior Supervisor should be appointed by the Center in charge from amongst the 
+faculty members of the School.  
+2. If sufficient number of faculty members are not available at the examination center, 
+Lab Assistants / Office Clerks having minimum qualification of graduation may be 
+appointed as a Jr. Supervisor as per the requirement by Center in charge. 
+3. The duties assigned to the Jr. Supervisor should not be adjusted to or substituted by 
+other person without the permission of Center in charge. 
+4. The Jr. Supervisor should report to the control room / Sr. Supervisor at least 30 
+minutes before the commencement of the examination and ascertain the examination 
+block assigned to him / her and the number of candidates in the block.  
+5. The Jr. Supervisor should collect the answer books and necessary stationery along 
+with him and attend the block allotted to him at least 15 minutes before the 
+commencement of the examination.  
+6. The candidates shall be admitted into the examination hall 10 minutes before the 
+commencement of the examination by the Jr. Supervisor.  
+7. The Jr. Supervisor shall announce to the students, to keep the books, papers and other 
+reference materials etc., outside the examination hall and instruct the candidates to 
+search desks, tables, their packets, wallets, instruments box before the issuance of 
+answer books and hand over if any papers / notes / manuscripts / books or any 
+material found to the Jr. Supervisor.  The students are expected to ensure that they are 
+not in possession of any written material on hands/s, palm, writing pads, inner and 
+outer covers of calculator / geometry box, handkerchief. etc.  
+8. Jr. Supervisor should ascertain that, student should not carry mobile phones or any 
+other electronic equipment in the examination hall and should keep it at his own risk 
+out of the examination hall. 
+9. The answer books shall be distributed to the candidates only, who are seated in the 
+examination hall and are not to be placed on the vacant seat.
+
+[Page 21]
+Page 20 of 55 
+ 
+10. The Jr. Supervisor shall distribute the question papers to the candidates seated in the 
+examination hall only when the commencement of examination bell is rung.  
+11. The Jr. Supervisor shall ensure that no candidates is entering in the examination hall 
+after half an hour of the commencement of examination.  
+12. The Jr. Supervisor should allow half an hour extra time to differently abled student 
+who are officially permitted by the authorities and allowed to take help of a writer. 
+13. Candidates shall be allowed to leave the examination hall only after 30 minutes of the 
+commencement of examination.  
+14. The Jr. Supervisor shall affix signature at the place marked as Jr. Supervisor’s 
+Signature only after ensuring that, the candidates have taken their proper seats and 
+have entered the correct seat number and other particulars required on the front sheet 
+of the answer book, check the identity of the candidate with photo on Hall Ticket and 
+obtain signature of the candidates on attendance report (FORM A). 
+15. The Jr. Supervisor should ensure no impersonation in the block.    
+16. The Jr. Supervisor shall remain alert in the examination hall and shall attend to the 
+requests of the candidates for supply of the supplementary answer sheets, graph 
+sheets, etc. which are permissible.  
+17. If any student has not brought his / her hall ticket, the matter shall be brought to the 
+notice of the Center in charge for further action.  
+18. If any candidate is absent, the word ABSENT shall be written in capital letters in the 
+appropriate column of the attendance sheet (FORM A), preferably in red ink, after 
+expiry of 30 minutes from the time of commencement of the examination.  A 
+consolidated statement showing the subject-wise, candidates present and absent be 
+submitted in form A.  
+19. After half an hour of the commencement of the examination, the spare answer books 
+and question papers shall be returned to the Center in charge through control room 
+staff when he / she visits the examination hall or return it to the office of Controller of 
+Examinations.  
+20. The Jr. Supervisor shall not accept the answer book of any candidate without ensuring 
+that it bears his / her correct seat number and other information asked on the front 
+page of the answer book.  
+21. The Jr. Supervisor shall not allow the candidate to use unfair means in the 
+examination hall.  
+22. The Jr. Supervisor is expected to take rounds in the hall and shall not engage 
+themselves in conversation with other Jr. Supervisor while the examination is going
+
+[Page 22]
+Page 21 of 55 
+ 
+on and also shall not read magazine or newspaper. Mobile phones or any other 
+electronic gazette are not allowed for Jr. Supervisors in the examination block. 
+23. The violations of instructions by any candidate shall be brought to the notice of the 
+immediately and a written report is to be made regarding such cases to the CoE 
+through Sr. Supervisor / Center in charge.  
+24. Smoking and taking tea / coffee or any other refreshment in the hall where the 
+examination is in progress is strictly prohibited.  
+25. Whenever, the candidate wishes to change the pen/ink, the Jr. Supervisor SHALL 
+AFFIX THE SIGNATURE ON THE TOP OF THE FACING SHEET OF THE 
+ANSWER SCRIPT to this effect.  
+26. After the expiry of the time of the examination, when the final bell is given, the Jr. 
+Supervisor shall collect the answer books and shall arrange them as per seat number 
+and hand over to the Sr. Supervisors along with other reports.  
+27. The Jr. Supervisor shall be personally held responsible for loss or misplacement of 
+any answer book.  
+28. While taking rounds of the examination hall, if the Jr. Supervisor notices that any 
+candidate is indulging in copying or possessing a manuscript or answer papers other 
+than that of the candidate or any written material on calculator / geometry box / scale, 
+he/she shall immediately take in his/her possession the candidate’s answer book, 
+question paper, and the materials which he / she has used for copying and 
+immediately report to the Sr. Supervisor for further action. 
+29. Any negligence of duty on the part of the Jr. Supervisor is seriously noted and the 
+Controller of Examinations shall take necessary action as per the guidelines of the 
+University and report the same to the Lapses Committee immediately.  
+30. Whenever a flying squad of the University makes a surprise visit the Jr. Supervisor 
+shall ensure their identity and allow to enter the examination hall for surprise check.  
+31. The Jr. Supervisor shall not leave the premises until, he / she personally hands over 
+the answer books and other reports to the Sr. Supervisor.
+
+[Page 23]
+Page 22 of 55 
+ 
+6 Vigilance Squads 
+a. The Controller of Examinations shall appoint Vigilance Squad which may include 
+senior teachers of departments on recommendation of Dean / Associate Dean and 
+approved by the Vice Chancellor. 
+b. The Controller of Examinations shall issue an identity card to each member of the 
+vigilance squad appointed. The identity card shall bear passport size photograph of 
+the Squad Chairman / member with attestation and signature of CoE with seal.  
+c. To ensure conduct of University examinations as per norms, a Vigilance Squad of not 
+less than 03 (three) members of whom at least 01 (one) shall be a lady member, shall 
+be constituted. 
+d. The Vigilance Squad shall be authorized to visit any examination hall and enter the 
+office of the Center in charge without prior intimation to check the records and other 
+materials relating to conduct of University examination for ascertaining the 
+authenticity of the examinee by proving their identity. The Vigilance Squad shall be 
+authorized to detect use of malpractices and unfair means in the University 
+examination, by physical check, if necessary. In case of female candidates, the 
+physical check shall be made only by the lady member of the squad in complete 
+privacy. 
+e. The Center in charge shall extend all co-operation to the Vigilance Squad at the time 
+of visit. 
+f. The Chairman of Vigilance Squad/s shall submit the report on surprise visits directly 
+to the CoE with a copy to Center in charge. The Vigilance Squad/s may make 
+suggestions in the matter of proper conduct of examinations in their report, if 
+necessary. 
+g. The squad team shall conduct themselves at the examination center with utmost 
+caution, courtesy and respect, without causing any kind of disorder which shall 
+disturb the students attending the examination.  
+h. The Squad team shall not cause any kind of harassment either to the students or to any 
+of the officials to the examination center. 
+i. The Squad team shall inspect the University examination centers assigned to them 
+surprisingly and frequently to ensure whether the arrangements made at different 
+centers for the conduct of examinations are proper and adequate.  
+i) 
+The Chairman of each squad team will obtain and maintain a Day Book and 
+carry it with him/her while visiting each examination center.
+
+[Page 24]
+Page 23 of 55 
+ 
+ii) 
+After the inspection of examination halls and before leaving the center, 
+signature of the Center in charge shall be taken in the DAY BOOK about the 
+visit of squad to the concerned center. 
+iii) 
+The DAY BOOK shall be returned to the CoE after the examinations are 
+completed, along with the remuneration bill.  
+Further they shall 
+i) 
+Report the cases of malpractice detected to the Controller of Examinations 
+immediately for further action However, the regular report of malpractice 
+together with the documents / proofs shall be sent by the Center in charge 
+concerned as envisaged under the Regulations of Malpractice. 
+ii) 
+Book the candidates, who are found indulging in malpractice and send such 
+candidates out of examination hall after taking necessary undertaking and 
+signature from the candidate on the prescribed forms.  
+iii) 
+It is also advised to take signatures of two candidates appearing for the 
+examination in the same block to ensure the malpractice as witnesses. 
+iv) 
+Report simultaneously the instances of grave malpractice such as mass 
+copying etc., to the Controller of Examinations and local police for further 
+action as per law.  
+v) 
+Give a detailed report on the work done after all the examinations are over, 
+duly recording daily entries in their dairy.  
+vi) 
+Carry out any other duties assigned by the Controller of Examinations for the 
+smooth conduct of examinations and to curb the number of malpractice cases 
+at any center.  
+vii) 
+Not to release any press statement under any circumstances. 
+viii) 
+Ensure utmost care to take the Controller of Examinations into confidence in 
+the process of execution of their duties and not to use improper language.  
+ix) 
+Not visit any examination center when there is no examination. 
+x) 
+It is sincerely requested that vigilance squads shall not create unnecessary 
+distractions to the examinees by unnecessarily shouting while handling cases 
+in the examination halls. If any case is detected, further investigation can be 
+done by isolating the guilty from the rest, taking to the office of the HoS / 
+Center in charge, the Controller of Examinations, without further enquiring in 
+the hall disturbing others for a prolonged period.  
+xi) 
+The malpractice case shall be booked with the intimation to the Center in 
+charge.  Once a candidate is booked under malpractice, the report shall be sent
+
+[Page 25]
+Page 24 of 55 
+ 
+along with other relevant documents to the office of the Controller of 
+Examinations. The Controller of Examinations shall serve a memo to the 
+concerned candidate instructing him/her to attend the unfair means enquiry 
+committee meeting, as fixed by the University.  
+The Chairman and the squad members for University examinations are entitled to 
+draw remuneration, TA & DA as per rates prescribed by the University from time to 
+time by submitting individual bill of a member duly signed by the chairman and the 
+bill of chairman should be signed by Dy. CoE or CoE.  
+The Controller of Examinations is authorized to call for explanation from the members of 
+the Squad including the chairman of the team in case he/she receives any kind of 
+complaint against the squad team.
+
+[Page 26]
+Page 25 of 55 
+ 
+7 Central Assessment Program Scheme 
+ 
+Preliminary: 
+ 
+The conduct of examinations and declaration of results is one of the important activities of 
+the University. The Scheme of Central Assessment program (CAP) is being introduced with a 
+view to 
+ 
+1. Declaring the results in the shortest possible time, 
+ 
+2. Increasing the reliability and confidentiality of the results, 
+ 
+3. Maintaining uniformity and consistency in the assessment, 
+ 
+4. Increasing accuracy and efficiency in the declaration of results and 
+ 
+5. Creating confidence amongst the students about the assessment system. 
+7.1 
+Evaluation, Tabulation and Declaration of Results 
+ 
+a. There shall be centralized evaluation of answer books for which schedules shall be 
+notified in each Trimester/Semester/Annual Examination. The COE shall arrange for 
+the Central Assessment Program (CAP) Centre and a CAP Coordinator for the same. 
+b. The blank answer books of the University Examinations will be kept in safe custody 
+at the CAP Centre(s) and the CAP Coordinator will issue the answer books to the 
+examiners on the dates and timings specified by the COE in consultation with the 
+HOS concerned. 
+c. The evaluation work has to start immediately after the examination of first subject / 
+paper and all assessment should be completed by all assigned examiners within 3 days 
+from the last day of examination.  
+d. The concerned CAP Coordinator should upload the marks in ERP immediately after 
+the evaluation work is over. 
+e. The results of the examinations shall be declared and published by the COE after due 
+approval of the Vice Chancellor. The results so declared shall be placed before the 
+Board of Examinations for information in next meeting. 
+f. The grade sheets shall be issued by the Examination Section on the dates announced 
+by the COE. The actual issuance of the grade sheets shall be administered by the 
+concerned school.  
+g. The Passing Certificate / Provisional Degree Certificate of the final year students shall 
+be issued immediately after the declaration of result. The actual issuance of the 
+Passing Certificate / Provisional Degree Certificate shall be administered by the 
+concerned school.
+
+[Page 27]
+Page 26 of 55 
+ 
+The CAP shall consist of the following stages: 
+ 
+I. 
+Pre-assessment work 
+ 
+II. 
+Assessment and Moderation process 
+ 
+III. 
+Post-Assessment Work 
+I. 
+Pre-assessment: 
+ 
+1. To fix the venue of the CAP: 
+ 
+The venue of the CAP shall be decided by the University authorities. It shall be on the 
+University Campus in School / Department or place decided by the University authorities. 
+ 
+2. 
+Appointment of CAP Coordinator: 
+ 
+The CAP Coordinator for the Central Assessment Program shall be appointed by the 
+COE from amongst the following 
+ 
+i. 
+A senior faculty member nominated by HOS 
+ 
+ii. 
+Any other senior person with the suitable academic and administrative experience 
+recommended by HOS.  
+CAP Coordinator shall communicate his / her acceptance to COE along with the 
+undertaking in the prescribed format. 
+ 
+3. 
+Appointment of Examiners/Moderators: 
+ 
+The Center in charge of concerned faculty shall provide a list indicating number of 
+students appearing for each subject and other relevant information to the CAP 
+Coordinator. The CAP Coordinator / COE shall ascertain the number of examiners and 
+moderators required per subject. 
+ 
+The CAP Coordinator / COE shall send Appointment letters to all the examiners and 
+moderators shown in the lists and finalized by the COE well in advance (minimum 10 
+working days) so as to enable the examiners and moderators to communicate their 
+acceptance. In case of any difficulty in doing so, CAP Coordinator shall consult the COE 
+and take decision. All the instructions regarding the CAP shall also be sent to the 
+examiners and moderators. In case of shortage of examiners/moderators as reported by 
+CAP Coordinator, the additional appointments of examiners/moderators shall be made by 
+the COE. 
+ 
+4. 
+Collection of Answer books: 
+ 
+It is the responsibility of the Center in charge to ensure that the answer books of the 
+examinations held at his center are sent to CAP Center on the same day. 
+ 
+5. 
+Preparation for CAP: 
+ 
+i. 
+The CAP Coordinator shall make adequate arrangements to receive answer-books 
+coming from the examination centers from time to time.
+
+[Page 28]
+Page 27 of 55 
+ 
+ii. 
+On receipt of the answer-books at the CAP Centre, the staff employed for this work 
+shall check the number of answer-books, Junior Supervisor/s Reports and ascertain as 
+to whether the number of candidates present and absent indicated in the report are 
+correct. In case of any discrepancy, it shall be resolved in consultation with the Deputy 
+Controller of Examination or an Officer nominated by the COE. 
+ 
+iii. 
+It shall be seen and verified that all the answer-books of the subjects, are received 
+from examination center. This shall be checked with the subject wise and center 
+wise summaries of the examinations concerned. In case of non-receipt of answer-
+books from examination center, CAP Coordinator shall take immediate steps for 
+receiving the said answer-books from the concerned examination center under 
+intimation to the External Senior Supervisor and Dy. Controller of Examination. 
+ 
+iv. 
+The bundle of answer-books so prepared shall be computer coded. The Junior 
+Supervisor/s Reports shall be taken out and kept in a separate file. Papers or 
+bundles tied or presented in a doubtful manner shall be separated and further 
+decision regarding their evaluation shall be taken in consultation with COE. 
+v. 
+Answer books of unfair means cases be kept separately with COE for further 
+action.  
+II. 
+Assessment and Moderation Process: 
+ 
+The COE of the University shall issue instructions to Deans / HOS, paper setter, examiners, 
+teachers on the following: 
+ 
+i. 
+Consistency and uniformity in assessment 
+ 
+ii. 
+Remedial measures in respect of discrepancies detected/noticed in the 
+question paper 
+ 
+iii. 
+Unfair means noticed during the assessment process 
+ 
+iv. 
+Administrative, financial and organizational details 
+ 
+v. 
+Any other details not covered under this Ordinance prescribed by Controller 
+of Examination and or CAP Coordinator shall be carried out accordingly 
+7.2 
+Moderation 
+a. The Moderation System shall be applicable to all Schools / Departments of under 
+graduate and post graduate examinations. 
+  
+b. 100% moderation shall be carried out in case of answer books having less than 40% 
+and more than 80% of total marks. 
+c. Random 5% moderation of the answer books having marks between 40% and 80% 
+should be carried out. 
+ 
+d. One moderator shall be appointed for a group of five examiners. However, Chairman 
+should act as a moderator in the case of less than five examiners.
+
+[Page 29]
+Page 28 of 55 
+ 
+ 
+e. Moderation work shall be carried out simultaneously with the central assessment of 
+answer books at CAP centers. 
+ 
+f. If marks awarded by the examiner and the moderator vary, the marks awarded by the 
+moderator shall be considered as final. 
+III. 
+Post -Assessment: 
+ 
+The COE shall issue instructions on the following: 
+ 
+i. 
+Decoding of assessed answer-books. 
+ 
+ii. 
+Scrutiny and verification of assessed answer-books. 
+ 
+iii. 
+Preparation and schedule of submission of mark lists to the Exam 
+Department
+
+[Page 30]
+Page 29 of 55 
+ 
+8 Grace Marks for Passing  
+ 
+1. 
+A Candidate will get 1% of the total marks of the trimester / semester or 5 (five) grace 
+marks (whichever is less) if he / she is getting failed and these marks may be 
+distributed to maximum 3 subjects as per the requirement for the passing the subjects.  
+2. 
+1% of the total marks of the trimester / semester or 5 (five) grace marks (whichever is 
+less) will be allotted to the candidate only if he / she is getting failed and not for 
+securing higher class or any award / scholarship.  
+3. 
+The grace marks will not be applicable to backlog subjects or repeater candidate 
+4. 
+The policy of grace marks will be Trimester wise / Semester wise. 
+5. 
+The policy of grace marks will be applicable only for term end examinations. 
+6. 
+Subject requiring least grace marks be given benefit of grace marks first / on priority.  
+7. 
+If there are two or more subjects requiring same grace marks then the subject with 
+maximum percentage marks in corresponding internal / external examination marks 
+shall be considered.  
+8. 
+In case of tie at (8) above, the subject appearing in mark-sheet ahead in the sequence 
+shall be considered. 
+9. 
+After distributing the grace marks as per requirement of passing the subjects, if sum 
+of the marks are balanced the limit of grace marks will lapse and cannot be carried 
+forward. 
+10. Granting authority for the grace marks shall be with the Controller of Examinations in 
+the limit of above rules.
+
+[Page 31]
+Page 30 of 55 
+ 
+9 Passing Criteria 
+9.1 
+Introduction 
+ The worldwide Higher Education Institutions have been moving from the conventional 
+system to choice based credit system. The Trimester system enhance the teaching- 
+learning process and enables vertical and horizontal aspects in learning. The credit based 
+trimester system provides flexibility in designing curriculum and assigning credits based 
+on the course content and hours of teaching. The choice based credit system also provides 
+a bucket type approach in which the students can take courses of their choice, learn at their 
+own pace, undergo additional courses and acquire more than the required credits, and 
+adopt an interdisciplinary approach to learning. 
+  
+The passing criteria comprises the following: 
+9.2 
+Passing marks 
+ The student should score 40% marks in internal evaluation AND 40% marks in Term end 
+examination together to pass in that particular course. The passing criteria for the Faculty 
+of Pharmacy will be as per guidelines of Pharmacy Council of India (PCI) and for Faculty 
+of Law as per Bar Council of India (BCI). 
+9.3 
+Attendance 
+ The student should have minimum 75% attendance in a trimester considering all 
+concessions such as attendance concession given for sport, sick leave etc. to appear for 
+external examination for that trimester. The benefit of marks based on the attendance 
+above 75 %, is illustrated in appendix-A.1. Please refer Academic Ordinance clause 13 for 
+more details. 
+9.4 
+For students admitted in AY 2017-18 (Golden Batch) and laterally admitted in AY 
+2018-19. 
+ Following conditions are applicable to students those admitted in Academic Year 2017-18 
+and laterally in AY 2018-19: 
+A. 
+The student should score at least 4 GPA in First Trimester and 4 CGPA in 
+subsequent Trimesters except M.Tech. Course. For M.Tech. Courses, the student 
+should score at least 5 GPA in First Trimester and 5 CGPA in subsequent Trimesters. 
+B. 
+If a student fails to score 4 CGPA and earned more than 50% of credits out of total 
+number of credits for one course year then the student will be considered as a FAIL. 
+But these FAIL students are Allow to keep next Trimester (ATKT) i.e. allowed to 
+take admission in next academic year.
+
+[Page 32]
+Page 31 of 55 
+ 
+C. 
+The students with ATKT should improve the grade with in subjects they failed or 
+replace the subject (in case of elective only) with another subject to score required 
+grades. 
+D. 
+If the student score less than 4 CGPA AND less than 50% of credits out of total 
+number of credits are declared as a FAIL. These students are NOT allowed to take 
+admission in next year unless they fulfill the condition A or B stated above. 
+9.5 
+For students admitted in AY 2018-19 onwards. 
+ In addition to the condition for attendance, Passing Criteria based on GPA/credits for 
+students those are admitted in Academic Year 2018-19: 
+A. The student should score at least 5 GPA in First Trimester and 5 CGPA in subsequent 
+Trimesters. 
+B. If student fail to score 5 CGPA and earned more than 50% of credits out of total 
+number of credits for one course year then the student will be considered as a FAIL. 
+But these FAIL students are Allow to keep next Trimester (ATKT) i.e. allowed to take 
+admission in next academic year. 
+C. The students with ATKT should improve the grade with in subjects they failed or 
+replace the subject (in case of elective only) with another subject to score required 
+grades. 
+D. If the student score less than 5 CGPA AND less than 50% of credits out of total 
+number of credits are declared as a FAIL. These students are NOT allowed to take 
+admission in next year unless they fulfill the condition A or B stated above. 
+9.6 
+For promotion from First Year to Second Year 
+ For promotion from first year to second year of the programme, the students should earn 
+minimum 50% credits offered in their first year of study. On the basis of the results of all 
+three trimesters of one academic year, the students are kept in one of the following 3 
+categories: 
+A. The students those who earn 100% credits of total number of credits offered in their 
+first year of study with minimum CGPA of 5.00 are declared as PASS.  
+B. The students those who earn minimum 50% or more credits but not 100% of total 
+number of credits offered in their first year of study are declared as FAIL. In case of 
+odd number of credits the lower whole number should be applied, i.e. if there are 43 
+credits then the student should earn 21 credits. However, such students are allowed to 
+keep term (ATKT) i.e. they are allow to take admission in next year of study. 
+C. The students who earn less than 50% credits out of total number of credits offered in 
+their first year of study and the students who earn 100% credits but CGPA less than
+
+[Page 33]
+Page 32 of 55 
+ 
+5.00 are declared as FAIL (Year Down). Such students are NOT allowed to take 
+admission in next academic year of study unless they fulfill the required condition as 
+mentioned in (a) or (b). 
+D. The students can improve CGPA by appearing for maximum 3 courses of that study 
+years. 
+9.7 
+For promotion from Second Year to Third Year 
+For promotion from second year to third year of the programme, the students should earn 
+minimum 100% credits offered in their first year of study with minimum CGPA of 5.00 
+and earn minimum 50% credits of their second year of study.  
+ On the basis of the results of all three trimesters of one academic year, the students are 
+kept in one of the following 3 categories: 
+A. 
+The students those who earn 100% credits of total number of credits offered in their 
+second year of study with minimum CGPA of 5.00 are declared as PASS.  
+B. 
+The students those who earn minimum 50% or more credits but not 100% of total 
+number of credits offered in their second year of study are declared as FAIL. In case 
+of odd number of credits the lower whole number should be applied, i.e. if there are 
+43 credits then the student should earn 21 credits. However, such students are allowed 
+to keep term (ATKT) i.e. they are allow to take admission in next year of study. 
+C. 
+The students who earn less than 50% credits out of total number of credits offered in 
+their second year of study and the students who earn 100% credits but CGPA less 
+than 5.00 are declared as FAIL (Year Down). Such students are NOT allowed to take 
+admission in next academic year of study unless they fulfill the required condition as 
+mentioned in (a) or (b). 
+D. 
+The students can improve CGPA by appearing for maximum 3 courses of that study 
+years. 
+9.8 
+For promotion from Third Year to Fourth Year 
+For promotion from third year to fourth year of the programme, the students should earn 
+minimum 100% credits offered in their second year of study with minimum CGPA of 
+5.00 and earn minimum 50% credits of their third year of study.  
+ On the basis of the results of all three trimesters of one academic year, the students are 
+kept in one of the following 3 categories: 
+A. 
+The students those who earn 100% credits of total number of credits offered in their 
+third year of study with minimum CGPA of 5.00 are declared as PASS.  
+B. 
+The students those who earn minimum 50% or more credits but not 100% of total 
+number of credits offered in their third year of study are declared as FAIL. In case of
+
+[Page 34]
+Page 33 of 55 
+ 
+odd number of credits the lower whole number should be applied, i.e. if there are 43 
+credits then the student should earn 21 credits. However, such students are allowed to 
+keep term (ATKT) i.e. they are allow to take admission in next year of study. 
+C. 
+The students who earn less than 50% credits out of total number of credits offered in 
+their third year of study and the students who earn 100% credits but CGPA less than 
+5.00 are declared as FAIL (Year Down). Such students are NOT allowed to take 
+admission in next academic year of study unless they fulfill the required condition as 
+mentioned in (a) or (b). 
+D. 
+The students can improve CGPA by appearing for maximum 3 courses of that study 
+years. 
+9.9 Detaining of the students: 
+During any academic year of study, if a student is detained in any of the courses then 
+such students has to repeat these courses during next academic year/s along with junior 
+batch or as and when these courses are offered as regular trimester courses.  
+9.10  Eligibility Criteria 
+1) It is required to score 40% marks in internal evaluation to appear in Term End 
+Examinations AND 40% marks in Term end examination together to pass in that 
+particular course. 
+2) The student should have minimum 75% attendance in a trimester considering all 
+concessions such as attendance concession given for sport, sick leave etc. to appear for 
+external examination for that trimester.  
+9.11 Appendix: 
+A.1  
+Benefit of marks based on the Class Participation for subject wise in Course 
+Continuous Assessment 
+Class Participation 
+Benefit 
+Above 90% 
+5 Marks 
+85% to 90% 
+4 Marks 
+80% to 84% 
+3 Marks 
+75% to 79% 
+2 Marks
+
+[Page 35]
+Page 34 of 55 
+ 
+A.2 
+Letter Grades and Grade Points 
+Marks Out of 100 
+Letter Grade 
+Description 
+Grade Point 
+90-100 
+O 
+Outstanding 
+10 
+70-89 
+A+ 
+Excellent 
+9 
+60-69 
+A 
+Very Good 
+8 
+55-59 
+B+ 
+Good 
+7 
+50-54 
+B 
+Above Average 
+6 
+45-49 
+C 
+Average 
+5 
+40-44 
+P 
+Pass 
+4 
+0-39 
+F 
+Fail 
+0 
+AB 
+AB 
+Absent 
+0 
+ 
+A.3 
+Computation of GPA and CGPA: 
+The University follows the following procedure to compute the Grade Point Average ( GPA ) 
+and Cumulative Grade Point Average ( CGPA ): 
+The GPA is the ratio of summation of the product of the number of credits with the grade 
+points scored by a student in all the courses taken by a student in trimester/annual and the 
+sum of the number of credits of all the courses undergone by a student, i.e. 
+GPA (
+ 
+Where Ci is the number of credits of the ith course, and Gi is the grade point scored by the 
+student in the ith course. 
+The CGPA is also calculated in the same manner taking into account all the courses 
+undergone by a student overall in the trimester/year of a program, i.e. 
+CGPA =
+ 
+Where ti is the GPA of the ith trimester/year and Ci is the total number of credits in that 
+trimester/year. 
+The GPA and CGPA shall be rounded off to two decimal points and reported in the 
+transcripts. 
+Number of contact hours per credit are approximately FIFTEEN. 
+A.4 Illustration of Computation of GPA and CGPA 
+A.4.1 
+Illustration for GPA 
+Course 
+Credit 
+Grade letter 
+Grade point 
+Credit Point 
+(Credit x Grade)
+
+[Page 36]
+Page 35 of 55 
+ 
+Subject 1 
+3 
+A 
+8 
+3 X 8 = 24 
+Subject 2 
+4 
+B+ 
+7 
+4 X 7 = 28 
+Subject 3 
+3 
+B 
+6 
+3 X 6 = 18 
+Subject 4 
+3 
+O 
+10 
+3 X 10 = 30 
+Subject 5 
+3 
+C 
+5 
+3 X 5 = 15 
+Subject 6 
+2 
+F 
+0 
+0 
+Total 
+18 
+ 
+ 
+115 
+Thus, GPA = 115/18 = 6.38 
+A.4.2 
+Illustration for CGPA 
+Trimester 1 
+Trimester 2 
+Credit : 20 
+Credit : 22 
+GPA: 6.95 
+GPA: 7.8 
+ 
+ 
+Thus, CGPA =
+ 
+and thereafter.
+
+[Page 37]
+Page 36 of 55 
+ 
+10 Rules for the Revaluation & Re-totaling of Answer-Book/s  
+10.1 Introduction 
+Revaluation is a grievance redressing mechanism, which facilitates the students to get the 
+answer scripts reassessed by a different examiner. 
+A candidate may apply for photocopy of corrected answer script by paying prescribed fees 
+online within 02 days from the declaration of result. 
+A candidate at the University examinations is eligible to apply for verification of marks and 
+revaluation of answer book(s), within 05 days from the date of declaration of result. 
+A candidate may apply for verification of marks of all subjects appeared at the examination 
+concerned. Revaluation of answer books includes the process of verification of marks & 
+rechecking of answer books(s). 
+The revaluation of the answer book/s, however, shall not be permitted in respect of scripts of 
+Practical Examination / Term work / Internal Assessment/ Sessional Marks / Dissertation / 
+Thesis / Clinical / MCQ (Multiple Choice Question in practical examination) 
+10.2 Rules for revaluation and retotaling: 
+1. 
+The student can apply for revaluation & retotaling online. 
+2. 
+If the examinee is not satisfied with the marks awarded, he/she may apply for 
+revaluation or retotaling in the prescribed form within the period and in the 
+manner prescribed. 
+3. 
+This revaluation & retotaling facility shall be for theory papers only.  
+4. 
+The revaluation or retotaling of answer book shall not be permitted in respect of 
+the marks awarded to the scripts of practical examination /term work/ sessional 
+work / project work / dissertation / internal assessment / term work (including 
+theory part) and in viva voce /oral / practical examinations. 
+5. 
+The prescribed application form for revaluation or retotaling of answer book can 
+be filled online. 
+6. 
+The nonrefundable prescribed fees per subject per answer book for the purpose of 
+revaluation and retotaling shall be paid by the examinee. The said fee shall be 
+remitted online.  
+Note: - 
+a) It will be the responsibility of the School / Department to distribute the statement 
+of marks immediately on receipt from the University. 
+b) It will also be the responsibility of the student to collect the statement of marks 
+from the School / Department and apply for revaluation or retotaling within 
+stipulated time.
+
+[Page 38]
+Page 37 of 55 
+ 
+c) No application after the time span given will be entertained on any ground 
+whatsoever. 
+7. 
+The prescribed application form for revaluation or retotaling of answer book duly 
+filled in and signed by the applicant examinee only is to be submitted along with the 
+statement of marks, prescribed fees as above and subjects for which he/she intends to 
+apply for revaluation, within five (05) days from the date of the declaration of the 
+result of the respective examination. 
+8. 
+The Head of the School (College/Institute) shall be bound to make available the 
+teachers required for revaluation or retotaling on top priority basis on the day and date 
+communicated by the Controller of Examinations. 
+9. 
+It will be mandatory for the teachers to attend the revaluation or retotaling work on 
+top priority basis. If any teacher fails to comply with the orders, it shall be treated as 
+misconduct and such teacher shall be liable for disciplinary action. If the Head of the 
+School / Department fails to relieve the teacher for revaluation or retotaling or the 
+teacher fails to attend the work of revaluation or retotaling, it will be reported by the 
+Controller of Examination to the Vice Chancellor and also annotation would be made 
+in the service book of the teacher. This would be considered during annual appraisal. 
+10. The answer books already revaluated shall not be moderated or further re-revaluated, 
+unless so directed by the Vice-Chancellor, in exceptional cases. 
+11. The whole process of revaluation shall be completed within a period of ten (10) 
+working days from the date of receipt of the application for revaluation by the 
+Examination Department of the University. 
+**Applying for Retotaling of answer books and applying for Revaluation will be 
+two independent processes. 
+1. 
+Applying for the Retotaling of the answer book shall not be a pre-requisite for 
+applying for revaluation of the answer book in the said subject. 
+2. 
+The student can independently apply for revaluation OR retotaling (Revaluation 
+would automatically include retotaling). 
+3. 
+Pending the process of revaluation/ retotaling, and subject to the availability of the 
+seats in the college, the student may be admitted to the next higher class to which he 
+could have been admitted if he/she had passed in the said examination or had been 
+granted ATKT (Allowed to keep terms) for admission to the next class in the original 
+examination as per the rules applicable for the stream and faculty of his education, as 
+per the following norms:- 
+i. 
+The student may be admitted to the next higher class to which he could have been 
+admitted if he/she had passed in the said examination or had been granted ATKT 
+(Allowed to keep terms) for admission to the next class in the original 
+examination as per the rules applicable for the stream and faculty his/her 
+education,
+
+[Page 39]
+Page 38 of 55 
+ 
+ii. 
+The university is entitled to charge full fees at the time of granting admission to 
+such students to the next class before declaration of the result of the revaluation/ 
+retotaling, 
+iii. 
+Such admission shall be provisional; and automatically stands cancelled on 
+receipt of the result of revaluation/ retotaling process, if the student is not 
+declared passed in the requisite number of the subjects on revaluation/ 
+retotaling which would entitle him/her to take admission in the next higher 
+class, and in such case the fees originally collected by the college or any part of 
+the same shall not be refunded & transferred for subsequent academic year. 
+4. 
+Examiners and/or moderators, if found careless in the original assessment, the 
+appropriate action will be taken as per the rules and regulations of the University. 
+5. 
+The benefit of the revaluation shall be given to a candidate if the original marks and 
+the marks obtained after revaluation exceed by 5% or more of the maximum marks of 
+the paper of Trimester end examination. 
+6. 
+When Student apply for revaluation, he surrender his original performance and will 
+now accept the revised performance in which: - 
+a. there can be NO CHANGE, 
+b. there can be INCREASE in the marks 
+7. 
+A candidate shall note that the result of the revaluation of his/her answer-book(s) of 
+the theory paper(s) shall be binding. 
+8. 
+Retotaling changes will reflect at actual marks obtained in the particular subject.
+
+[Page 40]
+Page 39 of 55 
+ 
+11 Amendment of Results 
+ 
+11.1 Due to errors 
+ 
+Where it is found that the result of an examination has been affected by errors, the COE shall 
+have power to amend such result, in accordance with the true position and to make such 
+declaration as is necessary, with the necessary approval of Vice Chancellor. 
+ 
+Error Means: 
+ 
+i. 
+Error in computer/data entry, printing or programming, 
+ 
+ii. 
+Clerical error, manual or machine, in totaling or entering of marks in 
+ledger/register. 
+ 
+iii. 
+Error due to negligence or oversight of examiner or any other person 
+connected with evaluation, moderation and result preparation. 
+ 
+11.2 Due to fraud, malpractices etc. 
+ 
+In any case where the result of an examination has been ascertained and published and it is 
+found that such result has been affected by any malpractices, fraud or any other improper 
+conduct whereby an examiner has benefited the examinee, has in the opinion of the Board of 
+Examinations been party of privy to or connived at such malpractice, fraud or improper 
+conduct, the Board of Examinations shall have power, at any time, notwithstanding the issue 
+of the Certificate or the award of a Prize or Scholarship, (to amend the result of such 
+examinee and to make such declaration as the Board of Examinations considers necessary in 
+that behalf.)
+
+[Page 41]
+Page 40 of 55 
+ 
+12 Unfair Means by the Candidate 
+ 
+12.1 Definition-Unless the context otherwise requires: 
+ 
+a. “Candidate” means a student who is eligible for the examination and appeared for 
+the concerned examination. 
+b. "Unfair means" includes one or more of the following acts of commission or acts 
+of omission on the part of student/s during the examination period. 
+ 
+i. Possessing copy material and or copying therefrom. 
+ 
+ii. Transcribing any unauthorized material or any other use thereof. 
+ 
+iii. Intimidating or using obscene language or threatening or use of violence against 
+invigilator or person on duty for the conduct of examination or man-handling 
+him/her or leaving the examination hall without permission of the supervisor or 
+causing disturbances in any manner in the examination proceedings. 
+ 
+iv. Unauthorized communication with other examinees or anyone else inside or 
+outside the examination hall. 
+ 
+v. Mutual/Mass copying. 
+ 
+vi. Smuggling-out, either blank or written, or smuggling-in of answer-books as 
+copying material. 
+ 
+vii. Smuggling-in blank or written answer-book and forging signature of the Jr. 
+Supervisor thereon. 
+ 
+viii. Interfering with or counterfeiting University/College/Institution seal, or 
+answer-books or office stationery used in the examinations. 
+ 
+ix. Insertion of currency notes in the answer-books or attempting to bribe any of 
+the persons connected with conduct of examinations. 
+ 
+x. Impersonation at the University examination. 
+xi. Revealing identity in any form in the answer written or in any other part of the 
+answer-book by the student at the University examination. Or any other 
+similar act/s of commission and/or acts of omissions which may be considered 
+as unfair means by the competent authority. 
+xii. "Unfair means material" means and includes any material whatsoever, related 
+to the subject of the examination, printed, typed, handwritten or otherwise, on 
+the person or on clothes, or body of the candidate (examinee) or any material, 
+in any manner, or in the form of chart, diagram, map or drawing or electronic 
+aid etc. which is not allowed in the examination hall.
+
+[Page 42]
+Page 41 of 55 
+ 
+xiii. "Possession of unfair means material by a candidate" also means having any 
+unauthorized material on his / her person or desk or chair or table or at any 
+place within his/her reach in the examination center and its environs or 
+premises at any time from the commencement of the examination till its 
+conclusion. 
+xiv. "Student found in possession" means a student, reported in writing, as having 
+been found in possession of unfair means material by Jr. Supervisor, Sr. 
+Supervisor, member of the vigilance Squad or any other person authorized for 
+this purpose, in this behalf, even if the unfair means material is not produced 
+as evidence because of it being reported as swallowed or destroyed or 
+snatched away or otherwise taken away or spoiled by the student or by any 
+other person acting on his behalf to such an extent that it has become illegible. 
+Provided, report to that effect is submitted by the Sr. Supervisor or Center in 
+charge or any other authorized person to the COE or any officer authorized in 
+this behalf. 
+xv. "Material related to the subject of examination" means and includes, if the 
+material is produced as evidence, any material certified as related to the 
+subject of the examination by a competent person and if the material is not 
+produced as evidence or has become illegible for any of the reasons referred to 
+in clause (xiv) above; the presumption shall be that the material did 'relate to 
+the subject of the examination.” 
+12.2 Competent Authority 
+ 
+a. The Vice Chancellor of the University shall be the competent authority to take 
+appropriate disciplinary action against the students using, attempting to use, 
+aiding, abetting, instigating or allowing to use unfair means at the examination 
+conducted by the University. 
+b. Dean of the faculty shall be the competent authority to take appropriate 
+disciplinary action against the student/s using, attempting to use, aiding, 
+abetting, instigating or allowing to use unfair means at the internal 
+examination conducted by the Department / School. 
+c. On receipt of a report regarding use of unfair means by any student at any 
+University examination, including breach of any of the rules laid down by the 
+University Authorities, for proper conduct of examination, the Board of 
+Examinations shall have power, at any time, to institute inquiry and to punish 
+such student for resorting to unfair means or for breach of the rules, by
+
+[Page 43]
+Page 42 of 55 
+ 
+exclusion of such student from any University examination or from any 
+Convocation for the purpose of conferring degree, either permanently or for a 
+specified period; or by cancel the performance of the student in the University 
+examination for which the student appeared; or by deprivation of any 
+University Scholarship held by him/her or by cancellation of the award of any 
+University prize or medal given to him/her; or by imposition of fine or in any 
+two or more of the aforesaid ways, within a period of one year. 
+ 
+  
+During examination, examinees and other students shall be under disciplinary control 
+of the Center in charge of the Examination Centre. Center in charge shall, in the case 
+of unfair means, follow the procedure as under: 
+ 
+(a) The student shall be called upon to surrender to the unfair means material found 
+in his or her possession along with his/ her answer-book to Center in charge. 
+ 
+(b) Signature of the student concerned shall be obtained on the relevant materials and 
+list thereon. Jr / Sr. Supervisor and the Center in charge concerned shall also sign 
+on all the relevant materials and documents. 
+ 
+(c) The Center in charge shall record statement of the student and his / her 
+undertaking in the prescribed format and statement of the Jr. Supervisor and Sr. 
+Supervisor concerned in writing. If the students refuses to make statement or to 
+give undertaking the Sr. Supervisor and Center in charge shall record accordingly 
+under their signatures. 
+(d) Statement of examinee near around the student should be recorded. 
+ 
+(e) Center in charge shall take one or more of the following decisions depending upon 
+seriousness / gravity of the case: 
+ 
+I. 
+In the case of impersonation or violence, the student and the person who is 
+impersonation should be handed over to the Police.  
+II. 
+Obtain undertaking from the student to the effect that decision of the 
+competent authority concerned in his/her case shall be final and binding and 
+allow him/ her to continue with his/her examination. 
+ 
+III. 
+May report the case to the concerned Police Station with permission of COE. 
+ 
+IV. Confiscate his/her answer-book, mark it as "suspected unfair means case" and 
+issue him/her fresh answer-book duly marked only if the unfair means is 
+noticed in the first half an hour. 
+ 
+(e) All the material and list of material and the undertaking with the statement of the 
+student and that of the Jr. Supervisor and the answer-book/s shall be forwarded by 
+the Center in charge, along with his report, to the COE, as the case may be, in a
+
+[Page 44]
+Page 43 of 55 
+ 
+separate and confidential sealed envelope marked "Suspected Unfair Means 
+Case". 
+ 
+(f) In case of unfair means of oral type, the Jr. Supervisor and the Sr. Supervisor or 
+authorized person concerned shall record the facts in writing and shall report the 
+same to the COE, as the case may be. 
+ 
+12.3 Procedure to be followed by Examiner during Assessment. 
+ 
+If examiner at the time of assessment of answer-book suspects that there is a prima-facie 
+evidence that the student/s whose answer-book/s the examiner is assessing appears to have 
+resorted to unfair means in the examination, the examiner shall forward his/her report, 
+through the Chairman in the subject, and through the CAP Coordinator along with the 
+evidence, to the COE, as the case may be, with his/her opinion in separate confidential sealed 
+envelope, marked as "Suspected unfair means case". 
+The case which is prima facie a case of unfair means, reported to the department by the 
+Jr. / Sr. Supervisor/ Center in charge and examiners shall be inquired into by the 
+Committee appointed by the Board of Examinations, as the case may be, in the event 
+cases of unfair means reported through any other sources, to which the case is primarily 
+pertained, at the Examination Department of the University shall scrutinize the case, 
+collect preliminary information to find out whether there is prima-facie case so as to fix 
+up primary responsibility for framing a charge sheet and then shall submit the said case 
+with his/ her primary report to the Board of Examination/ COE. If the Examination 
+Department / Vice chancellor is satisfied that there is a prima-facie case, it shall place the 
+same before the Unfair Means Inquiry Committee for further investigation. The Dy. 
+Controller of Examination concerned through which the case has originated or the case is 
+pertaining to, shall be the Presenting Officer of the case before the Inquiry Committees, 
+Police Authorities, Court of Justice shall deal with the case till it is finally disposed of. 
+Examination Results of the concerned student/s involved in such cases shall be held in 
+reserve till the Vice chancellor takes final decision in the matter and the student/s 
+concerned and the Department to which he/she belongs to, shall be informed accordingly. 
+ 
+12.4 Appointment of Unfair Means Inquiry Committee 
+ 
+a) Internal 
+Dean of faculty shall appoint Unfair Means Committee for the purpose of investigating 
+unfair means resorted to by students at the internal examination held by the department. 
+Unfair Means Inquiry Committee shall consist of three teachers (other than HOS) to be
+
+[Page 45]
+Page 44 of 55 
+ 
+nominated by the HOS, one of whom shall be designated as Chairperson. The members 
+appointed on the Department Examination Committee shall not be appointed as members 
+on the Unfair Means Inquiry Committee. Each trimester this Committee should submit 
+report of unfair means to Controller of Examinations. 
+b) University Examinations 
+For the purpose of investigating unfair means resorted to by students at the University 
+examination, the Controller of Examinations shall appoint an Unfair Means Inquiry 
+Committee. 
+The unfair means investigation committee at the University Examinations Consists of  
+1) Dean / Associate Dean of the Faculty – Chairperson 
+2) Faculty member – Member 
+3) Faculty member – Member 
+4) Representative of Examination Department  
+ 
+The Unfair Means Inquiry Committee will function as a recommendatory body and 
+submit its recommendations in the form of a report to the Controller of Examinations, 
+which will issue final orders with regard to the penal action to be taken against the 
+student/s after taking into account the reported facts and findings of the case by the 
+Committee and after ensuring whether reasonable opportunity has been given to the 
+implicated student concerned in his/her defense, the principles of natural justice have 
+been followed and the recommended quantum of punishment is in accordance with the 
+guidelines laid down in this behalf. 
+ 
+Procedure of the Committee should be as under 
+ 
+i. The COE of the University or the Officer authorized, as the case may be, shall inform 
+the student concerned in writing of the act of unfair means alleged to have been 
+committed by him/her, and shall ask him/her to show cause as to why the charge/s 
+levelled against him/her should not be held as proved and the punishment stipulated in 
+the show cause notice be imposed. 
+ 
+ii. The student may appear before the Inquiry Committee on the day, time and place 
+fixed for the meeting, with written reply/explanation to the show cause notice served 
+on him/her therein. The student himself/ herself only shall present his /her case before 
+the Committee. 
+iii. The documents that are being taken into consideration or are to be relied upon for the 
+purpose of proving charge/s against the student shall be shown to him/ her by the 
+Inquiry Committee, if the student presents himself/herself before the Committee. The 
+evidence, if any, shall be recorded in the presence of the delinquent.
+
+[Page 46]
+Page 45 of 55 
+ 
+iv. Reasonable opportunity, including oral hearing, shall be given to the student in his/her 
+defense before the Committee. The reply/explanation given by the student to the show 
+cause notice shall be considered by the Committee before making final 
+recommendation in the case. 
+v. The Committee shall follow the above procedure in the spirit of the principle of 
+natural justice. 
+vi. After serving a show cause notice, if the implicated student fails to appear before the 
+Inquiry Committee on the day, time and place fixed for the meeting, the student may 
+be given one more opportunity to appear before the Committee in his/her defense. 
+Even after offering two chances, if the student concerned fails to appear before the 
+Committee, the Committee shall take decision in his/her case in absentia, on the basis 
+of the available evidence/documents, which shall be binding on the student concerned. 
+vii. The Committee shall submit its report to the Controller of examination, along with its 
+recommendations regarding punishment to be inflicted or otherwise. 
+12.5 Punishment 
+ 
+The Vice Chancellor in the cases of University examinations, after taking into consideration the 
+report of the Unfair Means Committee shall pass such orders as it deems fit including granting 
+the student benefit of doubt, issuing warning or forgiving him/her from the charges and shall 
+impose anyone or more of the following punishments on the student/s found guilty of using 
+unfair means: 
+ 
+(a) Cancellation of performance of the student in full or in part in the examination he/she 
+has appeared for. 
+(b) Debarring student from appearing for any examination of the University for a 
+stipulated period not exceeding five years. 
+(c) Debarring student from taking admission for any course in the University for a 
+stipulated period not exceeding five years. 
+(d) Cancellation of the University Scholarship/s or award/s or prizes or medal etc. awarded to 
+him/her in that examination. 
+(e) In addition to the above mentioned punishments, the Vice chancellor may impose a 
+fine on the student declared guilty. If the student concerned fails to pay the fine within 
+a stipulated period, the Vice Chancellor may impose on such a student additional 
+punishment/ penalty, as it may deem fit. 
+(f) The student concerned shall be informed of the punishment finally imposed on 
+him/her in writing by the Controller of Examination or by the Officer authorized by
+
+[Page 47]
+Page 46 of 55 
+ 
+him / her in this behalf, under intimation to the School / Department he/she belongs 
+to. 
+The Vice-Chancellor may impose any of the above punishments on the candidate 
+on the recommendations of Unfair Means Committee. 
+The unfair means cases be resolved immediately after the examination is over 
+12.6 The Broad Categories of Unfair Means Resorted to by Students at the University 
+Examinations and the Quantum of Punishment for each Category thereof. 
+1. 
+Possession of relevant copying material  
+The candidate should be given “Strict 
+Warning” 
+2. 
+Actual  copying  from  the  copying 
+material for the first time 
+Cancellation 
+of 
+performance 
+for 
+that 
+particular Course Paper  
+3. 
+Actual copying from the copying
+Material more  than two Course Papers 
+in the same Trimester / Semester / 
+Annual Exam 
+Exclusion of the student from University 
+Examination 
+for 
+one 
+additional 
+Trimester/Semester/Annual examination. 
+4 
+Copying of another student's answer-
+book and possession of other students 
+answer book. 
+Cancellation 
+of 
+performance 
+for 
+the 
+particular Course Paper of both the students 
+5. 
+Mutual / Mass copying 
+Exclusion / cancellation of performance of 
+all the involved students from University 
+examination 
+for 
+that 
+particular 
+Trimester/Semester/Annual examinations
+6. 
+(i) Smuggling-out or smuggling-in of 
+Answer book as copying material. 
+Exclusion / cancellation of performance of 
+all the involved students from University 
+examination 
+for 
+that 
+particular 
+Trimester/Semester/Annual examinations 
+ 
+(ii) Smuggling -in of written answer- 
+book based on the question Course 
+Paper set at the examination. 
+Exclusion / cancellation of performance of 
+all the involved students from University 
+examination 
+for 
+that 
+particular 
+Trimester/Semester/Annual examinations 
+ 
+(iii) Smuggling-in of written answer- 
+book and forging signature of the Jr. 
+Supervisor thereon. 
+Exclusion / cancellation of performance of 
+all the involved students from University 
+examination 
+for 
+that 
+particular 
+Trimester/Semester/Annual 
+examinations 
+with additional fine. 
+7. 
+Interfering with or counterfeiting of 
+University seal, or answer-books or 
+office   stationery   used   in   the 
+Examinations. 
+Exclusion of the student from University 
+Examination 
+for 
+TWO 
+additional 
+Trimester/Semester/Annual examinations. 
+8. 
+Answer book main or supplement 
+written outside the examination hall 
+Or any other insertion in answer-book. 
+Exclusion / cancellation of performance of 
+all the involved students from University 
+examination 
+for 
+that 
+particular 
+Trimester/Semester/Annual examinations
+
+[Page 48]
+Page 47 of 55 
+ 
+10. 
+Insertion of currency notes / to bribe 
+or  attempting  to  bribe  any  of  the 
+Person/s connected with the conduct of 
+examinations. 
+Exclusion of the student from University 
+Examination 
+for 
+FOUR 
+additional 
+Trimester/Semester/Annual 
+examinations. 
+(Note: This money shall be credited to the 
+Income of University)  
+11. 
+Using obscene language / violence 
+threat at the examination center by a 
+student at the University examination    
+to Jr./  Sr. Supervisors/  Centre  In- 
+Charge  or Examiners. 
+Exclusion of the student from University 
+Examination 
+for 
+FOUR 
+additional 
+Trimester/Semester/Annual examinations. 
+12. 
+Using Mobile Phone or any sort of
+Electronic  Gadget and copying from / 
+using it    which  is  not allowed in the  
+examination 
+Cancellation 
+of 
+performance 
+for 
+that 
+particular Course Paper also confiscate the 
+electronic gadget.  
+13. 
+Impersonation   at   the   University 
+Examination. 
+Exclusion of the student from University 
+examination for FIVE additional trimester  
+Examinations. (both the students   if 
+impersonator is the student of University)  
+14. 
+Revealing identity in any form in the 
+answer written or in any other part of 
+the answer-book by the student at the 
+University Examination 
+Cancellation  of  the  performance  of  the 
+Student at the University examination for 
+that particular Course Paper 
+15. 
+Found having written on palms or on 
+the body, or on the clothes, while in 
+the examination 
+Cancellation of  the  performance  of  the 
+Student at the University examination for 
+that particular Course Paper. 
+16. 
+All other malpractices not covered in 
+the aforesaid categories. 
+Punishment depending upon the gravity of 
+the offence. 
+17. 
+If on previous occasion, a disciplinary action was taken against a student for 
+malpractice used at examination and he/she is caught again for malpractices used at the 
+examinations, in this event he/she shall be dealt with severely. Enhanced punishment 
+can be imposed on such students. This enhanced punishment may extend to double the 
+punishment provided for the offence, when committed at the second or subsequent 
+examination. 
+18. 
+Practical/ Dissertation Project Report Examination 
+Student involved in malpractices at Practical/ Dissertation Project Report examinations 
+shall be dealt with as per the punishment provided for the theory examination. 
+19. 
+The Vice Chancellor / Controller of Examination, in addition to the above mentioned 
+punishments, may impose a fine on the student declared guilty.  
+ 
+ 
+*(Note : The Term " Cancellation of Performance in full" includes performance of the 
+student at the theory as well as Annual Practical examination,  performance at term work, 
+project work with its term work, oral or practical & dissertation examinations.)
+
+[Page 49]
+Page 48 of 55 
+ 
+13 Lapses Committed by the Employee 
+Lapses Means 
+On receipt of report regarding lapses committed by any paper-setter, examiner, moderator, 
+referee, teacher or any other person connected with the conduct of examination held by the 
+University, including breach of the rules laid down for proper conduct of examination, as the 
+case may be Controller of Examinations shall have power at any time to institute inquiry and 
+to punish for such lapses by declaring disqualified the paper-setter, examiner, moderator, 
+referee, teacher or any other person concerned connected with the conduct of examination 
+from any examination work either permanently or for a specified period or by referring 
+his/her case to the authorities concerned for taking such disciplinary action as deemed fit. 
+Further, the COE may recommend disciplinary action against the employee through the Vice 
+Chancellor so that a strong message that examination lapses will be dealt with strictly with 
+University administration. 
+13.1 Lapses Committed by any Paper-Setters, Examiners, Moderators, Referees, 
+Teachers or any other persons connected with the Conduct of Examination. 
+ 
+1. Definition: Unless the Context Otherwise Requires: 
+ 
+(a) "Paper-setter, examiner, moderator, referee and teacher" means and includes 
+person/s duly appointed as such for the examination by the competent authority 
+and the term "any other person connected with the conduct of examination" means 
+and includes person/s appointed on examination duty by the competent authority. 
+ 
+(b) lapses include one or more of the following acts or omissions on the part of the 
+person/s included in relating to the examination: - 
+ 
+i. Leakage of question/s or question paper set at the University examination 
+before the time of examination. 
+ 
+ii. Examiner/ Moderator intentionally awarding marks to student in assessment of 
+answer books, dissertation or project work to which the student is not entitled 
+or not assigning marks to the student to which the student is entitled. 
+ 
+iii. Paper-setter omitting question, Sr. No. of question, repeating question or 
+setting question outside the scope of syllabus. 
+ 
+iv. Examiner/ Referee showing negligence in detecting malpractice used by 
+student/s. 
+ 
+v. Jr. Supervisor, Sr. Supervisor, Center in charge showing negligence / apathy in 
+carrying out duties or aiding / abetting/ allowing / instigating students to use 
+malpractice/s.
+
+[Page 50]
+Page 49 of 55 
+ 
+vi. Any other similar act/s of commission and or act/s of omission which may be 
+considered as lapses by the competent authority. 
+ 
+13.2 Competent Authority: 
+ 
+b. The Vice Chancellor shall be the competent authority in respect of “University 
+Examination” to take appropriate disciplinary action against the paper-setters, 
+examiners, moderators, referees, teachers or any other persons connected with the 
+conduct of examinations committing lapses or using, attempting to use, aiding, 
+abetting, instigating or allowing to use malpractice/s at the examinations 
+conducted by the University. 
+  
+b. Departmental Examination Committee consisting of Respective Dean / 
+Associate Dean, HOS, Center in charge and two senior faculty shall be the 
+competent authority to take appropriate disciplinary action against the paper-
+setters, examiners, moderators, referees, teachers or any other persons connected 
+with the conduct of examinations committing lapses or using, attempting to use, 
+aiding, abetting, instigating or allowing to use malpractice/s at the internal 
+examination conducted by the School / Department. 
+ 
+13.3 Investigating Committee: 
+ 
+a. University Examination: - A Committee of three members shall be appointed 
+by the Vice Chancellor to investigate the cases of lapses committed, by the 
+paper-setters, examiners, moderators, referees, teachers or any other persons 
+connected with the conduct of examination at the University examinations. One 
+senior member of the committee shall be the chairman / chairperson of lapses 
+committee. Two other members of whom one should be from another School / 
+Department. 
+ 
+b. Internal Examination: - A Committee shall be appointed by the Dean to 
+investigate lapses on the part of paper-setters, examiners, moderators, referees, 
+teachers or any other persons connected with the conduct of internal 
+examinations conducted by School / Department. 
+ 
+13.4 Procedure for Investigation:  
+ 
+Investigation committee 
+a. The Deputy Controller of Examination shall scrutinize the cases of alleged use of 
+unfair means or lapses committed by the paper-setters, examiners, moderators, 
+referees, teachers or any other persons connected with the conduct of
+
+[Page 51]
+Page 50 of 55 
+ 
+examinations, reported to the University. He/ She shall collect preliminary 
+information to find out whether there is prima-facie case so as to fix up primary 
+responsibility for framing a charge sheet and then shall submit the said case with 
+his primary report to the COE. If the COE is satisfied that there is a prima-facie 
+case, it shall place the same before the unfair means or Lapses Committee for 
+further investigation. Deputy Controller of Examination through which the case 
+has originated or the case is pertaining to, shall be the Presenting Officer of the 
+case before the Inquiry Committee, Police Authorities and Court of Justice and 
+shall deal with the case till it is finally disposed of. 
+ 
+b. The Deputy Controller of Examination shall inform the implicated person (paper-
+setter, examiner, moderator, referee, teacher or any other person connected with the 
+conduct of examination) in writing of the act of lapses committed by him /her at the 
+examination and shall ask him/her to show cause a to why the charge/s levelled 
+against him/her should not be held as proved and the punishment stipulated in the 
+Show Cause Notice be imposed. 
+ 
+c. The person concerned shall be asked to appear before the Inquiry Committee on 
+a day, time and place fixed for meeting, with written reply/ explanation to the 
+show cause notice served on him/her and charge is levelled against him/her 
+therein. The person concerned himself/herself only shall present his/her case 
+before the Committee. " 
+ 
+d. The documents that are being taken into consideration or to be relied upon for the 
+purpose of proving charge/s against the person concerned shall be shown to him/her 
+by the Inquiry Committee if he/she presents himself/herself before the Committee. 
+The evidence, if any, should be recorded in presence of the delinquent. 
+ 
+e. Reasonable opportunity, including oral hearing, shall be given to the person 
+concerned, in his/her defense before the Committee. The reply/ explanation given 
+to the show cause notice shall also be considered by the Committee before 
+making final report/recommendation. 
+ 
+f. The Committee should follow the above procedure in the spirit of principles of 
+natural justice. 
+ 
+g. If the person concerned, fails to appear before the Committee on the day, time and 
+place fixed for the meeting, he/ she be given one more opportunity to appear before 
+the Committee in his/her defense. Even after offering two chances, if the person 
+concerned fails to appear before the Committee, the Committee shall take decision in
+
+[Page 52]
+Page 51 of 55 
+ 
+his/her case in his / her absence on the basis of whatever evidences/ documents 
+available before it and same shall be binding on the implicated person concerned. 
+ 
+h. The Committee shall submit its report to the competent authority concerned 
+along with its recommendations regarding punishment to be inflicted on the 
+person concerned or otherwise. 
+13.5 Punishment: 
+ 
+The Vice chancellor after taking into consideration the report of the Committee, shall pass 
+such orders as it deems fit including granting the implicated person benefit of doubt, issuing 
+warning or forgiving him/her from the charge/s and shall impose anyone or more of the 
+following punishments on the implicated person found guilty of committing lapses at the 
+examination 
+ 
+i. 
+Declaring disqualified the paper-setter, examiner, moderator, referee, teacher or 
+any other person concerned connected with the conduct of examination, from any 
+examination work either permanently or for a specified period. 
+ 
+ii. 
+Imposing fine. If the person concerned fails to pay the fine within a stipulated 
+period, the Vice chancellor may impose on such a person additional punishment/ 
+penalty as it may deem fit. . 
+ 
+iii. 
+Referring his/her case to the Vice Chancellor concerned for taking such 
+disciplinary action as deemed fit as per the rules governing his/her service 
+conditions. 
+ 
+iv. 
+The Deputy Controller of Examination shall inform the person concerned of the 
+decision taken in his/her case and the punishments imposed on him/her. 
+ 
+v. 
+An appeal made within 30 days of imposition of the punishment, other than the 
+punishment referred to in clause No.(iii) above, shall lie with the Board of 
+Examinations if the case is pertaining to the University examination and their 
+decision in the appeal shall be final and binding. 
+ 
+vi. 
+Vice Chancellor shall supply a typed copy of the relevant extract of fact -finding 
+report of the Inquiry Committee, as well as the documents relied upon (if not 
+strictly confidential), pertaining to his/her case to the appellant / petitioner, if 
+applied for in writing. 
+ 
+vii. The court matters in respective cases of lapses shall be dealt with by the 
+respective competent authority. 
+ 
+viii. As far as possible the quantum of punishment should be prescribed category-wise 
+as hereunder: -
+
+[Page 53]
+Page 52 of 55 
+ 
+13.6 Action for lapses on the part of the Paper-Setter, Examiner, Moderator, Referee, 
+Teacher or any another person connected with the Conduct of University 
+Examinations. 
+Sr. No. 
+Nature of Lapses 
+Punishment 
+1. 
+Paper-setter found responsible for
+leakage of the question set in the 
+University examination/s whether 
+intentionally   or   due   to   the 
+negligence   before   the   time   of 
+examination 
+Disqualification 
+from 
+all 
+examinations Work for a Trimester + 
+disciplinary 
+action 
+suggested 
+by 
+Lapses Committee. 
+2. 
+Leakage of question/ question paper
+set  in  the  University  examination 
+before the time of examination at 
+the  University  or  at  examination 
+centre  by  any  person/s  connected 
+with 
+the 
+conduct 
+of 
+the 
+examination. 
+Disqualification 
+from 
+all 
+examinations Work for a Trimester + 
+disciplinary 
+action 
+suggested 
+by 
+Lapses Committee 
+3. 
+Favoring a student (examinee) by
+examiner, moderator,  referee in 
+assessment 
+of 
+answer-books/ 
+dissertation/ Project Report/ Thesis  
+by  assigning  the  student marks to 
+which the student is not entitled, at 
+the 
+University/ 
+school 
+College/Institution examination. 
+Disqualification from all examinations 
+Work for a Trimester + disciplinary 
+action suggested by Lapses Committee 
+4. 
+Examiner/ 
+Moderator 
+/Referee 
+intentionally/ 
+negligently 
+not 
+assigning the student in assessment 
+of 
+his/her 
+answer-books/ 
+dissertation/ 
+project 
+work, 
+the 
+marks to which the student is 
+entitled 
+to 
+at 
+the 
+University 
+examinations 
+Disqualification from all examination 
+work + disciplinary action suggested 
+by Lapses Committee 
+5. 
+Paper-setter omitting question at the
+time  of  finalization  of  question 
+paper  set  at  the  examination  or 
+repeating Sr. No. of question while 
+writing. 
+Warning / Show Cause Notice should 
+be issued to the Paper Setter by COE 
+and action should be taken as 
+suggested by Lapses Committee after 
+inquiry.  
+6. 
+Paper-setter repeating questions in
+same/different section/s. 
+Disciplinary 
+action 
+suggested 
+by 
+Lapses Committee 
+7. 
+Paper-setter 
+setting 
+questions 
+outside the scope of the syllabus 
+Disciplinary 
+action 
+suggested 
+by 
+Lapses Committee 
+8. 
+While 
+assessing 
+answer-book 
+examiner showing negligence in 
+detecting malpractices used by the 
+student/s  
+Disciplinary 
+action 
+suggested 
+by 
+Lapses Committee 
+ 
+9. 
+Guiding 
+Teacher 
+showing 
+negligence in   supervision of 
+dissertation /   project work (e.g. use 
+of manipulated data by a student)
+Disciplinary action suggested by 
+Lapses Committee 
+ 
+10. 
+Sr. Supervisor / Center in charge
+showing  apathy in  carrying  out 
+duties related to examinations (e.g. 
+not 
+taking 
+rounds 
+to 
+the 
+Disciplinary 
+action 
+suggested 
+by 
+Lapses Committee
+
+[Page 54]
+Page 53 of 55 
+ 
+examination hall at Examination 
+Centre during examination period 
+or opening the packet  of  question  
+paper  before prescribed time)
+11. 
+Jr.  Supervisor helping student in
+copying   answers   while   in   the 
+examination or showing negligence 
+in   reporting   cases   of   copying 
+answers 
+by 
+students 
+when 
+on 
+supervision duty. 
+**Disqualification from all examination 
+work for a Trimester + disciplinary   
+action   suggested by   Lapses 
+Committee 
+12. 
+Jr   Supervisor   helping   student 
+(examinee) in mass-copying, while 
+on examination duty  
+Permanent disqualification from all
+examination 
+work 
++ 
+disciplinary 
+action suggested by Lapses Committee 
+as per the rule if he/she is a University 
+employee.
+13. 
+The Vice Chancellor, in addition to above mentioned punishment, may impose a 
+fine on the concerned person if declared guilty. 
+14 
+ If the nature of grievance is very serious and it is affecting the spirit of 
+examination and reputation of the University, The competent authority may take
+an action of “Cancellation of Approval” of that concern Teacher/s.  
+15. 
+The competent Authority may report the case of the implicated person concern to
+appropriate Police Authorities.  
+ 
+16 
+In addition to the above listed punishments, any other punishment deemed fit by
+the Vice Chancellor.  
+ 
+ 
+**The above punishments shall be placed or recorded in service book / personal record of 
+the employee. The above punishments may be taken cognizance at the time of promotion / 
+increments or any other benefit awarded to concerned employee.
+
+[Page 55]
+Page 54 of 55 
+ 
+14 Visually Challenged or Differently Abled Students 
+Appointment of Writer 
+ 
+A writer appointed by the Controller of Examinations to write answer papers of the Visually 
+Challenged or differently abled students or such other examinee will be paid prescribed 
+amount per paper in respect of graduate and post graduate examinations. (The charges of the 
+writer may have revised by the Vice-Chancellor on the recommendations of Board of 
+Examinations) 
+ 
+The Center in charge is authorized, to permit the appointment of a writer at an examination 
+for a candidate who, in his / her opinion, is unable to write answer-scripts on medical 
+grounds, visually challenged or differently abled students. The writer to be appointed must 
+not have passed the examination at which he is appointed to work for the examination. The 
+concerned writer should not be a relative of examinee. The concerned examinee must submit 
+medical certificate from 'Registered Medical Practitioner’ / Doctors of Vishwaraj Hospital. 
+ 
+The Center in charge shall make a separate seating arrangement for the candidate and the 
+writer. The Center in charge will recover the prescribed fee from the candidate asking for the 
+writer in case of differently abled students. No writer fee shall be collected from the blind / 
+visually challenged candidates. The University should pay the remuneration in respect of 
+the writer provided to the visually challenge candidate from the University funds. 
+ 
+The Center in charge is permitted to collect the writer fees at the prescribed rates mentioned 
+above from the candidates concerned and disburse them to writers appointed by them 
+directly. 
+ 
+Time to Handicapped Students/Blind Students/Learning Disable 
+ 
+1. For Handicapped and Learning Disable: 
+ 
+The Center in charge are also authorized to sanction additional half an hour to differently 
+abled students and learning disable students. However, students will have to submit the 
+medical certificate of Doctors of Vishwaraj Hospital. The candidate’s application must be 
+received through the Principal to the Senior Supervisor concerned. 
+ 
+2. Visually Challenged Students: 
+ 
+The Visually Challenged students will be given an additional one hour, i.e. over and above 
+the prescribed time.
+
+[Page 56]
+Page 55 of 55 
+ 
+15 References 
+1. Examination Ordinances 2017 – Vishwanath Karad MIT World Peace University Pune 
+2. https://exam.unipune.ac.in/Docs/Ordinances/circular_no._396_of_2002_ordinances_no._
+1_to_10.pdf 
+3. https://www.wikijob.co.uk/content/internships/advice/what-internship/ 
+4. https://www.scps.virginia.edu/bachelor-of-liberal-arts/capstone/ 
+5. www.vocabulary.com › dictionary › thesis 
+6. https://www.ufv.ca/media/assets/secretariat/policies/Research-Centres-and-Institutes-
+(211).pdf 
+7. https://www.merriam-webster.com/dictionary/laboratory 
+8. https://mitwpu.edu.in/rural-immersion-programme/ 
+9. https://www.quora.com/What-is-an-educational-tour-How-does-it-benefit-students
+
+[Page 57]
+Annexure I - Form of Unfair Means by student 
+ 
+Dr. Vishwanath Karad, 
+ 
+MIT World Peace University, Pune 
+ 
+Statement of candidate who is alleged to have used Unfair Means at the University 
+Examination 
+ 
+Name in Full: _______________________________________________________________ 
+ 
+ 
+Address: ___________________________________________________________________ 
+ 
+___________________________________________________________________ 
+ 
+ 
+Mobile no. ---------------------  
+ 
+E-mail 
+ 
+Examination: _______________________________________________________________ 
+ 
+Trimester / Semester / Year:  I / II /  III 
+Academic Year: 
+ 
+Paper No. & Subject: _________________________________________________________ 
+ 
+PR No..: ___________________________________________________________________ 
+ 
+ 
+To 
+The Controller of Examinations 
+Dr. Vishwanath Karad 
+MIT World Peace University, Pune 
+Pune - 411 038. 
+ 
+Sir, 
+ 
+I __________________________________________________________________________ 
+ 
+appeared at the above examination held on ________________________________________ 
+ 
+at the ______________________________________________________Department (Centre) in 
+the Morning/Evening session 
+I give, statement as follows: 
+ 
+ 
+ 
+ 
+Place: 
+ 
+Date: 
+Time 
+Signature of the candidate
+
+[Page 58]
+FORM OF UNDERTAKING 
+ 
+Full Name of the Candidate:____________________________________________________ 
+ 
+Permanent/Local address:______________________________________________________ 
+ 
+______________________________________________________ 
+ 
+To 
+ 
+The Controller of Examinations, 
+ 
+Dr. Vishwanath Karad 
+ 
+MIT World Peace University, Pune 
+ 
+Pune-411 038. 
+ 
+Sir, 
+ 
+I _____________________________________the undersigned, student of _______________ 
+ 
+Department 
+________________________________________________appearing 
+for 
+ 
+__________________________ Examination at the _______________________________on 
+the date ______________________ Centre do hereby state on solemn affirmation as under:- 
+I understand that I am involved in respect of an alleged use of Unfair Means in the 
+Examination Hall and therefore, a case against me is being reported to the University. 
+ 
+That in spite of the registration of a case of Unfair Means against me, I request the University 
+authorities to allow me to appear in the present paper and the papers to be set subsequently 
+and/or at the University Examination to be held hereafter. 
+ 
+In case my request is granted, I do hereby agree that my appearance in the examination will 
+be provisional and subject to the decision of the University authorities in the matter of 
+disposal of the case of alleged use of Unfair Means referred to above. 
+ 
+I also hereby agree that in the event of myself being found guilty at the time of investigation 
+of the said case, my performance at the examination to which I have been permitted to appear 
+provisionally, consequent upon my special request, is liable to be treated as null and void and 
+any punishments to be decided by the University authorities. In witness where of I set my 
+hand to this undertaking 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of the Candidate 
+ 
+Before me 
+ 
+Date: 
+ 
+ 
+Center in charge, 
+Date: 
+ 
+ 
+ 
+ 
+Rubber Stamp of the University/ Department
+
+[Page 59]
+Dr. Vishwanath Karad 
+ 
+MIT World Peace University, Pune 
+ 
+Report of the Jr. Supervisor/Sr. Supervisor/Center in charge 
+ 
+Block No. : 
+ 
+Examination: 
+ 
+Subject: 
+ 
+Date: 
+ 
+To 
+ 
+The Controller of Examinations, 
+ 
+Dr. Vishwanath Karad 
+ 
+MIT World Peace University, Pune 
+ 
+Pune-411 038. 
+ 
+ 
+Sir 
+ 
+I ______________________________the undersigned. Jr. Supervisor appointed on the above- 
+ 
+mentioned Block at the _____________examination held at ________________ Department 
+on date___________________ (Centre), am hereby making report against Candidate No 
+______________________. 
+ 
+Mr./Mrs. _______________________________________at the examinations, as follows; 
+ 
+Yours faithfully, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Time: 
+ 
+Name, Address and mobile number of the Junior Supervisor 
+ 
+___________________________________ 
+ 
+___________________________________ 
+ 
+___________________________________ 
+ 
+___________________________________ 
+ 
+___________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+( Jr. Supervisor) 
+ 
+Date :
+
+[Page 60]
+On the basis of the report made by the Jr. Supervisor, I am of the opinion that there is a prima 
+facie case of Unfair Means resorted to by the aforesaid candidate PRN ______________and 
+therefore the case be forwarded to the University for Investigation. 
+ 
+ 
+ 
+Signature of Sr. Supervisor (Internal) 
+ 
+Signature of Sr. Supervisor (External) 
+Name :  
+ 
+ 
+ 
+ 
+ 
+Name: 
+Date:  
+ 
+ 
+ 
+ 
+ 
+Date: 
+Mobile No.: 
+ 
+ 
+ 
+ 
+ 
+Mobile No. 
+ 
+Forwarded to the Controller of Examinations, Dr. Vishwanath Karad MIT World Peace 
+University, Pune for necessary action. 
+ 
+ 
+ 
+ 
+Seal of the Department/University (Centre) 
+ 
+Place: 
+ 
+Date: 
+ 
+Encl: 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature of Center in charge 
+ 
+(N.B.: Kindly enclose a copy of the relevant question paper)
+
+[Page 61]
+Annexure II - Format of Complaint 
+To 
+ 
+The Inspector/Sub- Inspector, 
+ 
+Police Station, 
+ 
+Shastri Nagar, Kothrud, Pune, 
+ 
+Maharashtra 411038 
+ 
+Sub.:  FIR / Complaint  against  the  student/s  for  the  alleged  use  of  Unfair  means  
+at  the __________ examination held in the ____________________________Centre. 
+ 
+Sir, 
+ 
+On behalf of the Dr. Vishwanath Karad, MIT World Peace University, Pune the ____________ 
+ 
+Examination held in the First /Second / Third trimester of 20___ is conducted in the premises 
+of the University. I have been authorized by the Dr. Vishwanath Karad, MIT World Peace 
+University, Pune-411 038. vide letter No _______dated _______addressed to the Controller 
+of Examinations by _________________ to take action under the provisions of Maharashtra 
+Act. XXXI of 1982, an Act to provide for preventing malpractices at University, Board and 
+other specified examination. 
+ 
+I furnish herewith the details of the following student/s who has/have used Unfair Means at the 
+ 
+_________________ Examination. 
+ 
+l. Name of the Student 
+: 
+2. PR No 
+: 
+3. Name of the Department 
+: 
+ through which he/she appeared 
+ for the examination 
+ 
+4. Name of the Subject 
+: 
+ Date and Time 
+: 
+5. Name of the Jr. Supervisor : 
+6. Name of the Sr. Supervisor 
+: 
+who detected the case 
+ 
+7. Material found with the 
+: 
+Candidate 
+ 
+8. Other Information if any in 
+: 
+ 
+connection with the case
+
+[Page 62]
+According to Section '7' of the Maharashtra Act XXXI of 1982-An Act to provide for 
+preventing malpractices at University and other specified examinations.  
+Shri./Kum _________________________ 
+has 
+committed 
+the 
+offence at 
+the 
+__________________________examination and therefore, I lodge a FIR / complaint 
+against him/her with the Police Station, Shastri Nagar, Kothrud, Pune. 
+Yours faithfully, 
+ 
+ 
+ 
+ 
+Center in charge. 
+ 
+Name of the Centre:________________ 
+ 
+Place: 
+ 
+Date:

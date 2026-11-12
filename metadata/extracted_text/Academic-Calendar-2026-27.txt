@@ -1,0 +1,104 @@
+[Page 1]
+Academic Calendar for the Academic Year: 2026 -2027 (All First Year)
+Dt:15.06.2026
+Original table columns: Details | Start date | End date | Remarks | Proposed CCA,LCA,ERP Locking
+Structured columns: Date | Event | Applicable program/semester | Page | Remarks | Proposed CCA,LCA,ERP Locking
+
+Semester I (From 03rd August 2026 To 2nd December 2026)
+03-Aug-26 | Commencement of Term | All First Year / Semester I | 1 | | 
+24th July 2026 – 25th July 2026 | Faculty Induction (Review of Teaching Learning Process, Assessment & First Day Handout) | All First Year / Semester I | 1 | 02 Days | 
+03rd Aug 2026 – 2nd Dec 2026 | Academic Instruction Duration (regular classes) | All First Year / Semester I | 1 | | 
+03rd Aug 2026 – 07th Aug 2026 | Shubharambh (Student Induction Program) | All First Year / Semester I | 1 | 05 Days | 
+Upto 18th September 2026 | Formative Assessment 1 Completion Period | All First Year / Semester I | 1 | | 
+21st Sep 2026 | Formative Assessment 1 Review, Feedback - Counselling & Attendance Review(ATR-I) - Counselling | All First Year / Semester I | 1 | 01 Day | CCA1,LCA1 ERP Locking 22th Sep 26 -23 Sep 26
+12th Oct 2026 – 16th Oct 2026 | Formative Assessment 2 (Mid Term) | All First Year / Semester I | 1 | | 
+21st Oct 2026 | Formative Assessment 2- Review & Feedback- Counselling & ATR-II Review - Counselling & Students Feedback in ERP | All First Year / Semester I | 1 | 01 Day | CCA2,LCA2 ERP Locking 23th Oct 26 - 24 Oct 26
+7th Nov 2026 – 14th Nov 2026 | Diwali Vacation | All First Year / Semester I | 1 | | 
+Upto 25th Nov 2026 | Formative Assessment 3 Completion Period | All First Year / Semester I | 1 | | 
+27th Nov 2026 | Formative Assessment 3- Review & Feedback- Counselling & ATR-III Review & Students Feedback in ERP | All First Year / Semester I | 1 | | CCA3,LCA3 ERP Locking 28 Nov 26 -30 Nov 26
+2nd Dec 2026 | Last Instructional Day | All First Year / Semester I | 1 | Total - 90 Days | Attendance Locking 2nd Dec 26
+7thDec 2026 – 28th Dec 2026 | Term End Exam | All First Year / Semester I | 1 | 18 working days | 
+29th Dec 2026 – 3rd Jan 2027 | Winter Vacation | All First Year / Semester I | 1 | Actual Winter vacation days will vary depending upon Exam Time Table | 
+
+Semester II (From 4th Jan 2027 to 8th May 2027)
+4th Jan 2027 | Commencement of Term | All First Year / Semester II | 1 | | 
+4th Jan 2027 – 5th Jan 2027 | Faculty Induction -By Rotation (Yearwise Review of Teaching Learning Process, Assessment & First Day Handout) | All First Year / Semester II | 1 | 02 Days(Instructional) | 
+4th Jan 2027 – 08th May 2027 | Academic Instruction Duration (regular classes) | All First Year / Semester II | 1 | | 
+19th Jan 2027 – 23rd Jan 2027 | Cocreation ( Mandatory Credit Activity) | All First Year / Semester II | 1 | 5 Days | 
+Upto 18th Feb 2027 | Formative Assessment 1 Completion Period | All First Year / Semester II | 1 | | 
+22nd Feb 2027 | Formative Assessment 1 Review, Feedback - Counselling & Attendance Review(ATR-I) - Counselling | All First Year / Semester II | 1 | 01 Day | CCA1,LCA1 ERP Locking 24th Feb 27 - 25th Feb 27
+8th Mar 2027 – 13th Mar 2027 | Formative Assessment 2 (Mid Term) | All First Year / Semester II | 1 | | 
+17th Mar 2027 | Formative Assessment 2- Review & Feedback- Counselling & ATR-II Review - Counselling & Students Feedback in ERP | All First Year / Semester II | 1 | 01 Day | CCA2, LCA2 ERP Locking 18th Mar 27-19th Mar 27
+Upto 04th May 2027 | Formative Assessment 3 Completion Period | All First Year / Semester II | 1 | | 
+5th May 2027 | Formative Assessment 3- Review & Feedback- Counselling & ATR-III Review & Students Feedback in ERP | All First Year / Semester II | 1 | 01 Day | CCA3, LCA3 ERP Locking 06th May 27
+08th May 2027 | Last Instructional Day | All First Year / Semester II | 1 | Total - 94 Days | Attendance Locking 08th May 27
+12th May 2027 – 31st May 2027 | Term End Exam (Regular) | All First Year / Semester II | 1 | 18 Working Days | 
+07th Jun 2027 – 31st Jul 2027 | Summer Term | All First Year / Semester II | 1 | 8 Weeks | 
+3rd Aug 2027 | Commencement of Next Academic Year | All First Year | 1 | | 
+
+Page 1 note (merged table cell):
+The Backlog Exams in phased manner will be conducted school wise from August 2026 Onwards and from March 2027 Onwards . A Separate circular and timetable will be displayed accordingly in Odd and Even Semester respectively of Academic year 2026-27
+
+Page 1 signatories:
+Prepared By
+Dr.Vikrant Gaikwad | Dean Academics
+Dr.Veera Talukdar | COE
+Recommended by
+Dr.Prasad Khandekar | CAO
+Recommended by
+Mr.Ganesh Pokale | Registrar
+Approved by
+Dr. R.M. Chitnis | Vice Chancellor
+Handwritten dates beside signatures: 16/6/26 (Dean Academics); 16/6/2026 (COE); [UNCLEAR] (CAO)
+Scanned with OKEN Scanner
+
+[Page 2]
+Academic Calendar for the Academic Year: 2026 -2027 (All except first year)
+Dt: 15.06.2026
+Original table columns: Details | Start date | End date | Remarks | Proposed CCA,LCA,ERP Locking
+Structured columns: Date | Event | Applicable program/semester | Page | Remarks | Proposed CCA,LCA,ERP Locking
+
+Semester I (From 6th Jul 2026 to 5th Nov 2026)
+6th Jul 2026 | Commencement of Term | All except first year / Semester I | 2 | | 
+6th Jul 2026 – 5th Nov 2026 | Academic Instruction Duration (regular classes) | All except first year / Semester I | 2 | | 
+Upto 14th Aug 26 | Formative Assessment 1 Completion Period | All except first year / Semester I | 2 | | 
+17th Aug 2026 | Formative Assessment 1 Review , Feedback - Counselling & Attendance Review(ATR-I) - Counselling | All except first year / Semester I | 2 | 01 Day | CCA1,LCA1 ERP Locking 20th Aug 26 - 21st Aug 26
+7th Sep 2026 – 12th Sep 2026 | Formative Assessment 2 (Mid Term) | All except first year / Semester I | 2 | | 
+21st Sep 2026 | Formative Assessment 2- Review & Feedback- Counselling & ATR-II Review - Counselling & Students Feedback in ERP | All except first year / Semester I | 2 | 01 Day | CCA2,LCA2 ERP Locking 24th Sep 26-25th Sep 26
+Upto 31st Oct 2026 | Formative Assessment Period 3 | All except first year / Semester I | 2 | | 
+04th Nov 2026 | Formative Assessment 3- Review & Feedback- Counselling & ATR-III Review & Students Feedback in ERP | All except first year / Semester I | 2 | 01 Day | CCA3,LCA3 ERP Locking 5th Nov 26-6th Nov 26
+05th Nov 2026 | Last Instructional Day | All except first year / Semester I | 2 | Total - 95 Days | Attendance Locking 5th Nov 26 -6th Nov 26
+7th Nov 2026 – 14th Nov 2026 | Diwali Vacation | All except first year / Semester I | 2 | | 
+19th Nov 2026 – 18th Dec 2026 | Term End Exam (Regular) | All except first year / Semester I | 2 | 27 working days | 
+19th Dec 2026 – 3rd Jan 2027 | Winter Vacation | All except first year / Semester I | 2 | Actual Winter vacation days will vary depending upon Exam Time Table | 
+
+Semester II (From 4th Jan 2027 to 08th May 2027)
+4th Jan 2027 | Commencement of Term | All except first year / Semester II | 2 | | 
+4th Jan 2027 – 5th Jan 2027 | Faculty Induction -By Rotation (Yearwise Review of Teaching Learning Process, Assessment & First Day Handout) | All except first year / Semester II | 2 | 02 Days(Instructional) | 
+4th Jan 2027 – 08th May 2027 | Academic Instruction Duration (regular classes) | All except first year / Semester II | 2 | | 
+Upto 18th Feb 2027 | Formative Assessment 1 Completion Period | All except first year / Semester II | 2 | | 
+22nd Feb 2027 | Formative Assessment 1 Review , Feedback - Counselling & Attendance Review(ATR-I) - Counselling | All except first year / Semester II | 2 | 01 Day | CCA1,LCA1 ERP Locking 24th Feb 27 - 25th Feb 27
+8th Mar 2027 – 13th Mar 2027 | Formative Assessment 2 (Mid Term) | All except first year / Semester II | 2 | | 
+17th Mar 2027 | Formative Assessment 2- Review & Feedback- Counselling & ATR-II Review - Counselling & Students Feedback in ERP | All except first year / Semester II | 2 | 01 Day | CCA2, LCA2 ERP Locking 18th Mar 27-19th Mar 27
+Upto 04th May 2027 | Formative Assessment 3 CompletionPeriod | All except first year / Semester II | 2 | | 
+5th May 2027 | Formative Assessment 3- Review & Feedback- Counselling & ATR-III Review & Students Feedback in ERP | All except first year / Semester II | 2 | 01 Day | CCA3, LCA3 ERP Locking 06th May 27
+08th May 2027 | Last Instructional Day | All except first year / Semester II | 2 | Total - 94 Days | Attendance Locking 09th May 27
+12th May 2027 – 31st May 2027 | Term End Exam (Regular) | All except first year / Semester II | 2 | 18 Working Days | 
+07th Jun 2027 – 31st Jul 2027 | Summer Term | All except first year / Semester II | 2 | 8 Weeks | 
+3rd Aug 2027 | Commencement of Next Academic Year | All except first year | 2 | | 
+
+Page 2 note (merged table cell):
+The Backlog Exams in phased manner will be conducted school wise from August 2026 Onwards and from March 2027 Onwards . A Separate circular and timetable will be displayed accordingly in Odd and Even Semester respectively of Academic year 2026-27
+
+Page 2 signatories:
+Prepared By
+Dr.Vikrant Gaikwad | Dean Academics
+Dr.Veera Talukdar | COE
+Recommended by
+Dr.Prasad Khandekar | CAO
+Recommended by
+Mr.Ganesh Pokale | Registrar
+Approved by
+Dr. R.M. Chitnis | Vice Chancellor
+Handwritten dates beside signatures: 16/6/26 (Dean Academics); 16/6/2026 (COE); [UNCLEAR] (CAO)
+Scanned with OKEN Scanner
